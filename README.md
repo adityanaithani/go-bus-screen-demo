@@ -12,3 +12,4 @@ a demo redesign of go transit's digital bus signage
 - previous 4 stops
 - next stop
 - announcements roll
+- stop request indication

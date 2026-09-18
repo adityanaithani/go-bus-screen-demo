@@ -1,0 +1,4080 @@
+[
+  {
+    "route_id": "09261126-11",
+    "route_short_name": "11",
+    "route_long_name": "Brock University",
+    "route_color": "98002e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00180",
+        "stop_name": "Aldershot GO Bus"
+      },
+      {
+        "stop_id": "01010",
+        "stop_name": "Main St. W. @ Paisley Ave. S."
+      },
+      {
+        "stop_id": "00732",
+        "stop_name": "Main St. W. @ Longwood Rd. S."
+      },
+      {
+        "stop_id": "01009",
+        "stop_name": "Main St. W. @ Macklin St. S."
+      },
+      {
+        "stop_id": "01008",
+        "stop_name": "Main St. W. @ Dundurn St. S."
+      },
+      {
+        "stop_id": "01011",
+        "stop_name": "Main St. W. @ Pearl St. S."
+      },
+      {
+        "stop_id": "01012",
+        "stop_name": "Main St. W. @ Ray St. S."
+      },
+      {
+        "stop_id": "01007",
+        "stop_name": "Main St. W. @ Caroline St. S."
+      },
+      {
+        "stop_id": "01014",
+        "stop_name": "Main St. W. @ Summers Ln. (Hamilton City Hall)"
+      },
+      {
+        "stop_id": "00141",
+        "stop_name": "Hamilton GO Centre Bus"
+      },
+      {
+        "stop_id": "02652",
+        "stop_name": "West Harbour GO Bus"
+      },
+      {
+        "stop_id": "02730",
+        "stop_name": "Confederation GO Bus"
+      },
+      {
+        "stop_id": "02406",
+        "stop_name": "Casablanca Blvd. @ QEW Park & Ride"
+      },
+      {
+        "stop_id": "02621",
+        "stop_name": "Ontario St. @ QEW (Beamsville) Park & Ride"
+      },
+      {
+        "stop_id": "08048",
+        "stop_name": "St. Catharines Downtown Terminal"
+      },
+      {
+        "stop_id": "02780",
+        "stop_name": "Brock University"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-12",
+    "route_short_name": "12",
+    "route_long_name": "Niagara Falls / Burlington",
+    "route_color": "98002e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00139",
+        "stop_name": "Dundas St. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "00177",
+        "stop_name": "Burlington GO Bus"
+      },
+      {
+        "stop_id": "00819",
+        "stop_name": "Fairview St. @ Maple Ave."
+      },
+      {
+        "stop_id": "02730",
+        "stop_name": "Confederation GO Bus"
+      },
+      {
+        "stop_id": "02406",
+        "stop_name": "Casablanca Blvd. @ QEW Park & Ride"
+      },
+      {
+        "stop_id": "02621",
+        "stop_name": "Ontario St. @ QEW (Beamsville) Park & Ride"
+      },
+      {
+        "stop_id": "02402",
+        "stop_name": "St. Catharines Fairview Mall"
+      },
+      {
+        "stop_id": "02646",
+        "stop_name": "Niagara College"
+      },
+      {
+        "stop_id": "02404",
+        "stop_name": "Stanley Ave. @ Hwy. 420 Park & Ride"
+      },
+      {
+        "stop_id": "02408",
+        "stop_name": "Niagara Falls Bus Terminal"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-15",
+    "route_short_name": "15",
+    "route_long_name": "Brantford / Aldershot",
+    "route_color": "98002e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00180",
+        "stop_name": "Aldershot GO Bus"
+      },
+      {
+        "stop_id": "02185",
+        "stop_name": "Main St. W. @ Haddon Ave. S."
+      },
+      {
+        "stop_id": "00310",
+        "stop_name": "McMaster University"
+      },
+      {
+        "stop_id": "01010",
+        "stop_name": "Main St. W. @ Paisley Ave. S."
+      },
+      {
+        "stop_id": "02619",
+        "stop_name": "McMaster Innovation Park"
+      },
+      {
+        "stop_id": "02607",
+        "stop_name": "Wayne Gretzky Pkwy. @ Henry St"
+      },
+      {
+        "stop_id": "02610",
+        "stop_name": "Wayne Gretzky Pkwy. @ Elgin St."
+      },
+      {
+        "stop_id": "02611",
+        "stop_name": "Wayne Gretzky Pkwy. @ Chatham St."
+      },
+      {
+        "stop_id": "02613",
+        "stop_name": "Colborne St. E. @ Puleston St."
+      },
+      {
+        "stop_id": "02615",
+        "stop_name": "Dalhousie St. @ Park Ave."
+      },
+      {
+        "stop_id": "02617",
+        "stop_name": "Brantford Bus Terminal"
+      },
+      {
+        "stop_id": "02867",
+        "stop_name": "Erie Ave. @ Ninth Ave."
+      },
+      {
+        "stop_id": "02851",
+        "stop_name": "Sour Springs Rd. @ Mohawk Rd."
+      },
+      {
+        "stop_id": "02852",
+        "stop_name": "Chiefswood Rd. @ Sour Springs Rd."
+      },
+      {
+        "stop_id": "02866",
+        "stop_name": "4th Line @ Chiefswood Rd."
+      },
+      {
+        "stop_id": "08046",
+        "stop_name": "50 Generations Dr. (Oneida Business Park)"
+      },
+      {
+        "stop_id": "08047",
+        "stop_name": "New Credit Variety & Gas Bar"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-16",
+    "route_short_name": "16",
+    "route_long_name": "Hamilton / Toronto Express",
+    "route_color": "98002e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02300",
+        "stop_name": "Union Station Bus Terminal"
+      },
+      {
+        "stop_id": "01010",
+        "stop_name": "Main St. W. @ Paisley Ave. S."
+      },
+      {
+        "stop_id": "00732",
+        "stop_name": "Main St. W. @ Longwood Rd. S."
+      },
+      {
+        "stop_id": "01009",
+        "stop_name": "Main St. W. @ Macklin St. S."
+      },
+      {
+        "stop_id": "01008",
+        "stop_name": "Main St. W. @ Dundurn St. S."
+      },
+      {
+        "stop_id": "01011",
+        "stop_name": "Main St. W. @ Pearl St. S."
+      },
+      {
+        "stop_id": "01012",
+        "stop_name": "Main St. W. @ Ray St. S."
+      },
+      {
+        "stop_id": "01007",
+        "stop_name": "Main St. W. @ Caroline St. S."
+      },
+      {
+        "stop_id": "01014",
+        "stop_name": "Main St. W. @ Summers Ln. (Hamilton City Hall)"
+      },
+      {
+        "stop_id": "00141",
+        "stop_name": "Hamilton GO Centre Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-17",
+    "route_short_name": "17",
+    "route_long_name": "Waterloo / Hamilton",
+    "route_color": "f78025",
+    "route_text_color": "000000",
+    "stops": [
+      {
+        "stop_id": "02799",
+        "stop_name": "University of Waterloo Terminal"
+      },
+      {
+        "stop_id": "02153",
+        "stop_name": "Wilfrid Laurier University"
+      },
+      {
+        "stop_id": "02874",
+        "stop_name": "University Ave. E. @ Weber St. N."
+      },
+      {
+        "stop_id": "02819",
+        "stop_name": "Victoria St. N. @ Frederick St."
+      },
+      {
+        "stop_id": "02877",
+        "stop_name": "Victoria St. N. @ Lackner Blvd."
+      },
+      {
+        "stop_id": "02849",
+        "stop_name": "Woodlawn Rd. W. @ Regal Rd."
+      },
+      {
+        "stop_id": "02519",
+        "stop_name": "Guelph Central GO Bus"
+      },
+      {
+        "stop_id": "00201",
+        "stop_name": "University of Guelph"
+      },
+      {
+        "stop_id": "01708",
+        "stop_name": "Gordon St. @ Stone Rd."
+      },
+      {
+        "stop_id": "02718",
+        "stop_name": "Gordon St. @ Kortright Rd."
+      },
+      {
+        "stop_id": "01712",
+        "stop_name": "Gordon St. @ Edinburgh Rd. S."
+      },
+      {
+        "stop_id": "01714",
+        "stop_name": "Gordon St. @ Arkell Rd."
+      },
+      {
+        "stop_id": "01716",
+        "stop_name": "Gordon St. @ Clairfields Dr. W."
+      },
+      {
+        "stop_id": "02845",
+        "stop_name": "Gordon St. @ Clair Rd. W."
+      },
+      {
+        "stop_id": "01718",
+        "stop_name": "Brock Rd. S. @ Maple Leaf Ln."
+      },
+      {
+        "stop_id": "02884",
+        "stop_name": "Brock Rd. S. @ Gilmour Rd."
+      },
+      {
+        "stop_id": "00337",
+        "stop_name": "Brock Rd. @ McLean Rd. (Aberfoyle) Park & Ride"
+      },
+      {
+        "stop_id": "00180",
+        "stop_name": "Aldershot GO Bus"
+      },
+      {
+        "stop_id": "02185",
+        "stop_name": "Main St. W. @ Haddon Ave. S."
+      },
+      {
+        "stop_id": "00310",
+        "stop_name": "McMaster University"
+      },
+      {
+        "stop_id": "01010",
+        "stop_name": "Main St. W. @ Paisley Ave. S."
+      },
+      {
+        "stop_id": "00732",
+        "stop_name": "Main St. W. @ Longwood Rd. S."
+      },
+      {
+        "stop_id": "01009",
+        "stop_name": "Main St. W. @ Macklin St. S."
+      },
+      {
+        "stop_id": "01008",
+        "stop_name": "Main St. W. @ Dundurn St. S."
+      },
+      {
+        "stop_id": "01011",
+        "stop_name": "Main St. W. @ Pearl St. S."
+      },
+      {
+        "stop_id": "01012",
+        "stop_name": "Main St. W. @ Ray St. S."
+      },
+      {
+        "stop_id": "01007",
+        "stop_name": "Main St. W. @ Caroline St. S."
+      },
+      {
+        "stop_id": "01014",
+        "stop_name": "Main St. W. @ Summers Ln. (Hamilton City Hall)"
+      },
+      {
+        "stop_id": "00141",
+        "stop_name": "Hamilton GO Centre Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-18",
+    "route_short_name": "18",
+    "route_long_name": "Lakeshore West",
+    "route_color": "98002e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02300",
+        "stop_name": "Union Station Bus Terminal"
+      },
+      {
+        "stop_id": "02775",
+        "stop_name": "Port Credit GO Bus"
+      },
+      {
+        "stop_id": "00181",
+        "stop_name": "Clarkson GO Bus"
+      },
+      {
+        "stop_id": "00137",
+        "stop_name": "Oakville GO Bus"
+      },
+      {
+        "stop_id": "00264",
+        "stop_name": "Bronte GO Bus"
+      },
+      {
+        "stop_id": "00263",
+        "stop_name": "Appleby GO Bus"
+      },
+      {
+        "stop_id": "00949",
+        "stop_name": "Brant St. @ Churchill Ave."
+      },
+      {
+        "stop_id": "00177",
+        "stop_name": "Burlington GO Bus"
+      },
+      {
+        "stop_id": "00819",
+        "stop_name": "Fairview St. @ Maple Ave."
+      },
+      {
+        "stop_id": "00180",
+        "stop_name": "Aldershot GO Bus"
+      },
+      {
+        "stop_id": "01010",
+        "stop_name": "Main St. W. @ Paisley Ave. S."
+      },
+      {
+        "stop_id": "00732",
+        "stop_name": "Main St. W. @ Longwood Rd. S."
+      },
+      {
+        "stop_id": "01009",
+        "stop_name": "Main St. W. @ Macklin St. S."
+      },
+      {
+        "stop_id": "01008",
+        "stop_name": "Main St. W. @ Dundurn St. S."
+      },
+      {
+        "stop_id": "01011",
+        "stop_name": "Main St. W. @ Pearl St. S."
+      },
+      {
+        "stop_id": "01012",
+        "stop_name": "Main St. W. @ Ray St. S."
+      },
+      {
+        "stop_id": "01007",
+        "stop_name": "Main St. W. @ Caroline St. S."
+      },
+      {
+        "stop_id": "01014",
+        "stop_name": "Main St. W. @ Summers Ln. (Hamilton City Hall)"
+      },
+      {
+        "stop_id": "00141",
+        "stop_name": "Hamilton GO Centre Bus"
+      },
+      {
+        "stop_id": "02652",
+        "stop_name": "West Harbour GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-19",
+    "route_short_name": "19",
+    "route_long_name": "Mississauga / North York",
+    "route_color": "f57f25",
+    "route_text_color": "000000",
+    "stops": [
+      {
+        "stop_id": "00013",
+        "stop_name": "Finch Bus Terminal"
+      },
+      {
+        "stop_id": "02709",
+        "stop_name": "Yonge St. @ Finch Ave."
+      },
+      {
+        "stop_id": "01651",
+        "stop_name": "Yonge St. @ Kempford Blvd."
+      },
+      {
+        "stop_id": "01644",
+        "stop_name": "Yonge St. @ Churchill Ave."
+      },
+      {
+        "stop_id": "01654",
+        "stop_name": "Yonge St. @ Ellerslie Ave."
+      },
+      {
+        "stop_id": "00077",
+        "stop_name": "Yonge St. @ Park Home Ave."
+      },
+      {
+        "stop_id": "00300",
+        "stop_name": "Yonge St. @ North York Blvd."
+      },
+      {
+        "stop_id": "00299",
+        "stop_name": "Yonge St. @ Elmhurst Ave."
+      },
+      {
+        "stop_id": "00008",
+        "stop_name": "Yonge St. @ Sheppard Ave."
+      },
+      {
+        "stop_id": "02821",
+        "stop_name": "Yonge St. @ Poyntz Ave."
+      },
+      {
+        "stop_id": "01647",
+        "stop_name": "Yonge St. @ Florence Ave."
+      },
+      {
+        "stop_id": "00019",
+        "stop_name": "Yorkdale Bus Terminal"
+      },
+      {
+        "stop_id": "00020",
+        "stop_name": "Hwy. 401 @ Keele St."
+      },
+      {
+        "stop_id": "02209",
+        "stop_name": "Renforth Dr. @ Convair Dr."
+      },
+      {
+        "stop_id": "02660",
+        "stop_name": "Renforth Transitway Station"
+      },
+      {
+        "stop_id": "02658",
+        "stop_name": "Dixie Transitway Station"
+      },
+      {
+        "stop_id": "00133",
+        "stop_name": "Square One"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-21",
+    "route_short_name": "21",
+    "route_long_name": "Milton",
+    "route_color": "f57f25",
+    "route_text_color": "000000",
+    "stops": [
+      {
+        "stop_id": "02300",
+        "stop_name": "Union Station Bus Terminal"
+      },
+      {
+        "stop_id": "02751",
+        "stop_name": "Cooksville GO Bus"
+      },
+      {
+        "stop_id": "02655",
+        "stop_name": "Hurontario St. @ Fairview Rd."
+      },
+      {
+        "stop_id": "02654",
+        "stop_name": "Hurontario St. @ Elm Dr."
+      },
+      {
+        "stop_id": "00133",
+        "stop_name": "Square One"
+      },
+      {
+        "stop_id": "01359",
+        "stop_name": "Rathburn Rd. W. @ Elora Dr."
+      },
+      {
+        "stop_id": "01363",
+        "stop_name": "Rathburn Rd. W. @ Elora Dr."
+      },
+      {
+        "stop_id": "01360",
+        "stop_name": "Rathburn Rd. W. @ Elora Dr."
+      },
+      {
+        "stop_id": "01362",
+        "stop_name": "Rathburn Rd. W. @ Mavis Rd."
+      },
+      {
+        "stop_id": "02738",
+        "stop_name": "Rathburn Rd. W. @ Perivale Rd."
+      },
+      {
+        "stop_id": "01356",
+        "stop_name": "Rathburn Rd. W. @ Creditview Rd."
+      },
+      {
+        "stop_id": "00189",
+        "stop_name": "Erindale GO Bus"
+      },
+      {
+        "stop_id": "01192",
+        "stop_name": "Creditview Rd. @ Rathkeale Rd."
+      },
+      {
+        "stop_id": "01235",
+        "stop_name": "Eglinton Ave. W. @ Mississauga Rd."
+      },
+      {
+        "stop_id": "01445",
+        "stop_name": "Eglinton Ave. W. @ Summersky Crt."
+      },
+      {
+        "stop_id": "01240",
+        "stop_name": "Erin Mills Pkwy. @ Erin Centre Blvd."
+      },
+      {
+        "stop_id": "01446",
+        "stop_name": "Erin Mills Pkwy. @ McFarren Blvd."
+      },
+      {
+        "stop_id": "01384",
+        "stop_name": "Thomas St. @ Erin Mills Pkwy."
+      },
+      {
+        "stop_id": "00148",
+        "stop_name": "Streetsville GO Bus"
+      },
+      {
+        "stop_id": "01436",
+        "stop_name": "Streetsville GO Station Parking Lot"
+      },
+      {
+        "stop_id": "02847",
+        "stop_name": "Thomas St. @ Highbank Rd."
+      },
+      {
+        "stop_id": "01455",
+        "stop_name": "Erin Mills Pkwy. @ Vista Blvd."
+      },
+      {
+        "stop_id": "00730",
+        "stop_name": "Erin Mills Pkwy. @ Britannia Rd. W."
+      },
+      {
+        "stop_id": "01325",
+        "stop_name": "Millcreek Dr. @ Erin Mills Pkwy."
+      },
+      {
+        "stop_id": "01327",
+        "stop_name": "Millcreek Dr. @ Millrace Crt. E."
+      },
+      {
+        "stop_id": "02880",
+        "stop_name": "Millcreek Dr. @ Millrace Crt."
+      },
+      {
+        "stop_id": "00129",
+        "stop_name": "Meadowvale GO Bus"
+      },
+      {
+        "stop_id": "01139",
+        "stop_name": "Aquitaine Ave. @ Millcreek Dr."
+      },
+      {
+        "stop_id": "01137",
+        "stop_name": "Aquitaine Ave. @ Montevideo Rd."
+      },
+      {
+        "stop_id": "01135",
+        "stop_name": "Aquitaine Ave. @ Glen Erin Dr."
+      },
+      {
+        "stop_id": "00190",
+        "stop_name": "Aquitaine Ave. @ Formentera Ave. (Meadowvale Town Centre)"
+      },
+      {
+        "stop_id": "02869",
+        "stop_name": "Winston Churchill Blvd. @ Vanderbilt Rd."
+      },
+      {
+        "stop_id": "00341",
+        "stop_name": "Lisgar GO Bus"
+      },
+      {
+        "stop_id": "01196",
+        "stop_name": "Derry Rd. W. @ Danton Promenade"
+      },
+      {
+        "stop_id": "01203",
+        "stop_name": "Derry Rd. W. @ Tenth Line W."
+      },
+      {
+        "stop_id": "01204",
+        "stop_name": "Derry Rd. W. @ Terragar Blvd."
+      },
+      {
+        "stop_id": "01200",
+        "stop_name": "Derry Rd. W. @ Rosehurst Dr."
+      },
+      {
+        "stop_id": "02508",
+        "stop_name": "Derry Rd. W. @ Ninth Line"
+      },
+      {
+        "stop_id": "00809",
+        "stop_name": "Derry Rd. @ James Snow Pkwy."
+      },
+      {
+        "stop_id": "00816",
+        "stop_name": "Derry Rd. @ Trudeau Dr."
+      },
+      {
+        "stop_id": "00806",
+        "stop_name": "Derry Rd. @ Fourth Line"
+      },
+      {
+        "stop_id": "02737",
+        "stop_name": "Derry Rd. @ Sauve St."
+      },
+      {
+        "stop_id": "00810",
+        "stop_name": "Derry Rd. @ Miller Way"
+      },
+      {
+        "stop_id": "00812",
+        "stop_name": "Derry Rd. @ Miller Way"
+      },
+      {
+        "stop_id": "01016",
+        "stop_name": "Derry Rd. @ Thompson Rd. S."
+      },
+      {
+        "stop_id": "01024",
+        "stop_name": "Thompson Rd. S. @ Derry Rd. W."
+      },
+      {
+        "stop_id": "00894",
+        "stop_name": "Thompson Rd. S. @ Laurier Ave."
+      },
+      {
+        "stop_id": "00895",
+        "stop_name": "Thompson Rd. S. @ McCuaig Dr."
+      },
+      {
+        "stop_id": "00892",
+        "stop_name": "Thompson Rd. S. @ Childs Dr."
+      },
+      {
+        "stop_id": "00932",
+        "stop_name": "Drew Centre @ Thompson Rd. S."
+      },
+      {
+        "stop_id": "00194",
+        "stop_name": "Milton GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-22",
+    "route_short_name": "22",
+    "route_long_name": "Milton / Oakville",
+    "route_color": "f78025",
+    "route_text_color": "000000",
+    "stops": [
+      {
+        "stop_id": "00137",
+        "stop_name": "Oakville GO Bus"
+      },
+      {
+        "stop_id": "00902",
+        "stop_name": "Trafalgar Rd. @ Iroquois Shore Rd."
+      },
+      {
+        "stop_id": "01727",
+        "stop_name": "Trafalgar Rd. @ White Oaks Blvd."
+      },
+      {
+        "stop_id": "00939",
+        "stop_name": "Sheridan College"
+      },
+      {
+        "stop_id": "02783",
+        "stop_name": "Trafalgar Rd. @ Upper Middle Rd. E."
+      },
+      {
+        "stop_id": "02784",
+        "stop_name": "Trafalgar Rd. @ Briarhall Gate"
+      },
+      {
+        "stop_id": "02785",
+        "stop_name": "Trafalgar Rd. @ Glenashton Dr."
+      },
+      {
+        "stop_id": "01728",
+        "stop_name": "Trafalgar Rd. @ Rosegate Way"
+      },
+      {
+        "stop_id": "02647",
+        "stop_name": "Trafalgar Rd. @ Dundas St. E."
+      },
+      {
+        "stop_id": "01435",
+        "stop_name": "Trafalgar Rd. @ Burnhamthorpe Rd."
+      },
+      {
+        "stop_id": "02163",
+        "stop_name": "Trafalgar Rd. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "00809",
+        "stop_name": "Derry Rd. @ James Snow Pkwy."
+      },
+      {
+        "stop_id": "00816",
+        "stop_name": "Derry Rd. @ Trudeau Dr."
+      },
+      {
+        "stop_id": "00806",
+        "stop_name": "Derry Rd. @ Fourth Line"
+      },
+      {
+        "stop_id": "02737",
+        "stop_name": "Derry Rd. @ Sauve St."
+      },
+      {
+        "stop_id": "00810",
+        "stop_name": "Derry Rd. @ Miller Way"
+      },
+      {
+        "stop_id": "00812",
+        "stop_name": "Derry Rd. @ Miller Way"
+      },
+      {
+        "stop_id": "01016",
+        "stop_name": "Derry Rd. @ Thompson Rd. S."
+      },
+      {
+        "stop_id": "01024",
+        "stop_name": "Thompson Rd. S. @ Derry Rd. W."
+      },
+      {
+        "stop_id": "00894",
+        "stop_name": "Thompson Rd. S. @ Laurier Ave."
+      },
+      {
+        "stop_id": "00895",
+        "stop_name": "Thompson Rd. S. @ McCuaig Dr."
+      },
+      {
+        "stop_id": "00892",
+        "stop_name": "Thompson Rd. S. @ Childs Dr."
+      },
+      {
+        "stop_id": "00932",
+        "stop_name": "Drew Centre @ Thompson Rd. S."
+      },
+      {
+        "stop_id": "00194",
+        "stop_name": "Milton GO Bus"
+      },
+      {
+        "stop_id": "02151",
+        "stop_name": "Regional Rd. 25 @ Hwy. 401 Park & Ride"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-25",
+    "route_short_name": "25",
+    "route_long_name": "Waterloo / Mississauga",
+    "route_color": "f57f25",
+    "route_text_color": "000000",
+    "stops": [
+      {
+        "stop_id": "02799",
+        "stop_name": "University of Waterloo Terminal"
+      },
+      {
+        "stop_id": "02153",
+        "stop_name": "Wilfrid Laurier University"
+      },
+      {
+        "stop_id": "02874",
+        "stop_name": "University Ave. E. @ Weber St. N."
+      },
+      {
+        "stop_id": "02184",
+        "stop_name": "Sportsworld Dr. @ Hwy. 8 Park & Ride"
+      },
+      {
+        "stop_id": "02150",
+        "stop_name": "Cambridge Smart Centre"
+      },
+      {
+        "stop_id": "02605",
+        "stop_name": "Hespeler Rd. @ Pinebush Rd."
+      },
+      {
+        "stop_id": "00337",
+        "stop_name": "Brock Rd. @ McLean Rd. (Aberfoyle) Park & Ride"
+      },
+      {
+        "stop_id": "02151",
+        "stop_name": "Regional Rd. 25 @ Hwy. 401 Park & Ride"
+      },
+      {
+        "stop_id": "02812",
+        "stop_name": "Steeles Ave. @ Trafalgar Rd. (Toronto Premium Outlets)"
+      },
+      {
+        "stop_id": "02636",
+        "stop_name": "Winston Churchill Transitway Station"
+      },
+      {
+        "stop_id": "02214",
+        "stop_name": "Erin Mills Transitway Station"
+      },
+      {
+        "stop_id": "00132",
+        "stop_name": "Square One"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-27",
+    "route_short_name": "27",
+    "route_long_name": "Milton / North York",
+    "route_color": "f57f25",
+    "route_text_color": "000000",
+    "stops": [
+      {
+        "stop_id": "00013",
+        "stop_name": "Finch Bus Terminal"
+      },
+      {
+        "stop_id": "02709",
+        "stop_name": "Yonge St. @ Finch Ave."
+      },
+      {
+        "stop_id": "01651",
+        "stop_name": "Yonge St. @ Kempford Blvd."
+      },
+      {
+        "stop_id": "01644",
+        "stop_name": "Yonge St. @ Churchill Ave."
+      },
+      {
+        "stop_id": "01654",
+        "stop_name": "Yonge St. @ Ellerslie Ave."
+      },
+      {
+        "stop_id": "00077",
+        "stop_name": "Yonge St. @ Park Home Ave."
+      },
+      {
+        "stop_id": "00300",
+        "stop_name": "Yonge St. @ North York Blvd."
+      },
+      {
+        "stop_id": "00299",
+        "stop_name": "Yonge St. @ Elmhurst Ave."
+      },
+      {
+        "stop_id": "00008",
+        "stop_name": "Yonge St. @ Sheppard Ave."
+      },
+      {
+        "stop_id": "02821",
+        "stop_name": "Yonge St. @ Poyntz Ave."
+      },
+      {
+        "stop_id": "01647",
+        "stop_name": "Yonge St. @ Florence Ave."
+      },
+      {
+        "stop_id": "00019",
+        "stop_name": "Yorkdale Bus Terminal"
+      },
+      {
+        "stop_id": "00020",
+        "stop_name": "Hwy. 401 @ Keele St."
+      },
+      {
+        "stop_id": "02879",
+        "stop_name": "Meadowvale Blvd. @ Financial Dr."
+      },
+      {
+        "stop_id": "02586",
+        "stop_name": "Financial Dr. @ Syntex Crt."
+      },
+      {
+        "stop_id": "02587",
+        "stop_name": "Dupont Meadow Pl. @ Mississauga Rd."
+      },
+      {
+        "stop_id": "01246",
+        "stop_name": "Mississauga Rd. @ Argentia Rd."
+      },
+      {
+        "stop_id": "00196",
+        "stop_name": "Erin Mills Pkwy. @ Turner Valley Rd."
+      },
+      {
+        "stop_id": "01325",
+        "stop_name": "Millcreek Dr. @ Erin Mills Pkwy."
+      },
+      {
+        "stop_id": "01327",
+        "stop_name": "Millcreek Dr. @ Millrace Crt. E."
+      },
+      {
+        "stop_id": "02880",
+        "stop_name": "Millcreek Dr. @ Millrace Crt."
+      },
+      {
+        "stop_id": "00129",
+        "stop_name": "Meadowvale GO Bus"
+      },
+      {
+        "stop_id": "01139",
+        "stop_name": "Aquitaine Ave. @ Millcreek Dr."
+      },
+      {
+        "stop_id": "01137",
+        "stop_name": "Aquitaine Ave. @ Montevideo Rd."
+      },
+      {
+        "stop_id": "01135",
+        "stop_name": "Aquitaine Ave. @ Glen Erin Dr."
+      },
+      {
+        "stop_id": "00190",
+        "stop_name": "Aquitaine Ave. @ Formentera Ave. (Meadowvale Town Centre)"
+      },
+      {
+        "stop_id": "02869",
+        "stop_name": "Winston Churchill Blvd. @ Vanderbilt Rd."
+      },
+      {
+        "stop_id": "01196",
+        "stop_name": "Derry Rd. W. @ Danton Promenade"
+      },
+      {
+        "stop_id": "01203",
+        "stop_name": "Derry Rd. W. @ Tenth Line W."
+      },
+      {
+        "stop_id": "01204",
+        "stop_name": "Derry Rd. W. @ Terragar Blvd."
+      },
+      {
+        "stop_id": "01200",
+        "stop_name": "Derry Rd. W. @ Rosehurst Dr."
+      },
+      {
+        "stop_id": "02508",
+        "stop_name": "Derry Rd. W. @ Ninth Line"
+      },
+      {
+        "stop_id": "00809",
+        "stop_name": "Derry Rd. @ James Snow Pkwy."
+      },
+      {
+        "stop_id": "00816",
+        "stop_name": "Derry Rd. @ Trudeau Dr."
+      },
+      {
+        "stop_id": "00806",
+        "stop_name": "Derry Rd. @ Fourth Line"
+      },
+      {
+        "stop_id": "02737",
+        "stop_name": "Derry Rd. @ Sauve St."
+      },
+      {
+        "stop_id": "00810",
+        "stop_name": "Derry Rd. @ Miller Way"
+      },
+      {
+        "stop_id": "00812",
+        "stop_name": "Derry Rd. @ Miller Way"
+      },
+      {
+        "stop_id": "01016",
+        "stop_name": "Derry Rd. @ Thompson Rd. S."
+      },
+      {
+        "stop_id": "01024",
+        "stop_name": "Thompson Rd. S. @ Derry Rd. W."
+      },
+      {
+        "stop_id": "00894",
+        "stop_name": "Thompson Rd. S. @ Laurier Ave."
+      },
+      {
+        "stop_id": "00895",
+        "stop_name": "Thompson Rd. S. @ McCuaig Dr."
+      },
+      {
+        "stop_id": "00892",
+        "stop_name": "Thompson Rd. S. @ Childs Dr."
+      },
+      {
+        "stop_id": "00932",
+        "stop_name": "Drew Centre @ Thompson Rd. S."
+      },
+      {
+        "stop_id": "00194",
+        "stop_name": "Milton GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-29",
+    "route_short_name": "29",
+    "route_long_name": "Guelph / Mississauga",
+    "route_color": "00853e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02519",
+        "stop_name": "Guelph Central GO Bus"
+      },
+      {
+        "stop_id": "00201",
+        "stop_name": "University of Guelph"
+      },
+      {
+        "stop_id": "01708",
+        "stop_name": "Gordon St. @ Stone Rd."
+      },
+      {
+        "stop_id": "02718",
+        "stop_name": "Gordon St. @ Kortright Rd."
+      },
+      {
+        "stop_id": "01712",
+        "stop_name": "Gordon St. @ Edinburgh Rd. S."
+      },
+      {
+        "stop_id": "01714",
+        "stop_name": "Gordon St. @ Arkell Rd."
+      },
+      {
+        "stop_id": "01716",
+        "stop_name": "Gordon St. @ Clairfields Dr. W."
+      },
+      {
+        "stop_id": "02845",
+        "stop_name": "Gordon St. @ Clair Rd. W."
+      },
+      {
+        "stop_id": "01718",
+        "stop_name": "Brock Rd. S. @ Maple Leaf Ln."
+      },
+      {
+        "stop_id": "02884",
+        "stop_name": "Brock Rd. S. @ Gilmour Rd."
+      },
+      {
+        "stop_id": "00337",
+        "stop_name": "Brock Rd. @ McLean Rd. (Aberfoyle) Park & Ride"
+      },
+      {
+        "stop_id": "02151",
+        "stop_name": "Regional Rd. 25 @ Hwy. 401 Park & Ride"
+      },
+      {
+        "stop_id": "02636",
+        "stop_name": "Winston Churchill Transitway Station"
+      },
+      {
+        "stop_id": "02214",
+        "stop_name": "Erin Mills Transitway Station"
+      },
+      {
+        "stop_id": "00132",
+        "stop_name": "Square One"
+      },
+      {
+        "stop_id": "02659",
+        "stop_name": "Dixie Transitway Station"
+      },
+      {
+        "stop_id": "02661",
+        "stop_name": "Renforth Transitway Station"
+      },
+      {
+        "stop_id": "02778",
+        "stop_name": "Kipling Bus Terminal"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-30",
+    "route_short_name": "30",
+    "route_long_name": "Kitchener / Bramalea",
+    "route_color": "00853e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02674",
+        "stop_name": "Hwy 407 Bus Terminal"
+      },
+      {
+        "stop_id": "02728",
+        "stop_name": "Bramalea GO Bus"
+      },
+      {
+        "stop_id": "02586",
+        "stop_name": "Financial Dr. @ Syntex Crt."
+      },
+      {
+        "stop_id": "02587",
+        "stop_name": "Dupont Meadow Pl. @ Mississauga Rd."
+      },
+      {
+        "stop_id": "02205",
+        "stop_name": "Weber St. E. @ Montgomery Rd."
+      },
+      {
+        "stop_id": "02531",
+        "stop_name": "Weber St. E. @ Queen St. N."
+      },
+      {
+        "stop_id": "02186",
+        "stop_name": "Kitchener GO Bus"
+      },
+      {
+        "stop_id": "02875",
+        "stop_name": "University Ave. E. @ Weber St. N."
+      },
+      {
+        "stop_id": "02148",
+        "stop_name": "Wilfrid Laurier University"
+      },
+      {
+        "stop_id": "02800",
+        "stop_name": "University of Waterloo Terminal"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-31",
+    "route_short_name": "31",
+    "route_long_name": "Guelph / Toronto",
+    "route_color": "00853e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02300",
+        "stop_name": "Union Station Bus Terminal"
+      },
+      {
+        "stop_id": "00228",
+        "stop_name": "Malton GO Bus"
+      },
+      {
+        "stop_id": "02728",
+        "stop_name": "Bramalea GO Bus"
+      },
+      {
+        "stop_id": "00227",
+        "stop_name": "Steeles Ave. E. @ Rutherford St. S."
+      },
+      {
+        "stop_id": "01374",
+        "stop_name": "Steeles Ave. E. @ Kennedy Rd. S."
+      },
+      {
+        "stop_id": "00222",
+        "stop_name": "Shopper's World"
+      },
+      {
+        "stop_id": "01307",
+        "stop_name": "Main St. S. @ Elgin Dr."
+      },
+      {
+        "stop_id": "02746",
+        "stop_name": "Main St. S. @ Nanwood Dr."
+      },
+      {
+        "stop_id": "01306",
+        "stop_name": "Main St. S. @ Clarence St."
+      },
+      {
+        "stop_id": "01311",
+        "stop_name": "Wellington St. W. @ George St. S."
+      },
+      {
+        "stop_id": "00221",
+        "stop_name": "Brampton Bus Terminal"
+      },
+      {
+        "stop_id": "01321",
+        "stop_name": "Main St. N. @ Vodden St. E."
+      },
+      {
+        "stop_id": "01454",
+        "stop_name": "Main St. N. @ Williams Pkwy."
+      },
+      {
+        "stop_id": "00292",
+        "stop_name": "Bovaird Dr. W. @ Hurontario St."
+      },
+      {
+        "stop_id": "02712",
+        "stop_name": "Bovaird Dr. W. @ McLaughlin Rd. N."
+      },
+      {
+        "stop_id": "00217",
+        "stop_name": "Bovaird Dr. W. @ Chinguacousy Rd."
+      },
+      {
+        "stop_id": "01153",
+        "stop_name": "Bovaird Dr. W. @ Worthington Ave."
+      },
+      {
+        "stop_id": "00296",
+        "stop_name": "Mount Pleasant GO Bus"
+      },
+      {
+        "stop_id": "00215",
+        "stop_name": "Bovaird Dr. W. @ Mississauga Rd."
+      },
+      {
+        "stop_id": "00839",
+        "stop_name": "Guelph St. @ Noble St."
+      },
+      {
+        "stop_id": "00213",
+        "stop_name": "Guelph St. @ King St."
+      },
+      {
+        "stop_id": "00833",
+        "stop_name": "Guelph St. @ McFarlane Dr."
+      },
+      {
+        "stop_id": "00828",
+        "stop_name": "Guelph St. @ Delrex Blvd."
+      },
+      {
+        "stop_id": "00824",
+        "stop_name": "Guelph St. @ Armstrong Ave."
+      },
+      {
+        "stop_id": "00844",
+        "stop_name": "279 Guelph St. @ Sinclair Ave."
+      },
+      {
+        "stop_id": "00842",
+        "stop_name": "Guelph St. @ Sinclair Ave."
+      },
+      {
+        "stop_id": "00211",
+        "stop_name": "Guelph St. @ Alcott Dr."
+      },
+      {
+        "stop_id": "00924",
+        "stop_name": "Guelph St. @ Mountainview Rd. N."
+      },
+      {
+        "stop_id": "02633",
+        "stop_name": "Mountainview Rd. N. @ Maple Ave."
+      },
+      {
+        "stop_id": "02413",
+        "stop_name": "Georgetown GO Bus"
+      },
+      {
+        "stop_id": "02801",
+        "stop_name": "Maple Ave. @ Mountainview Rd. N."
+      },
+      {
+        "stop_id": "00832",
+        "stop_name": "Guelph St. @ Maple Ave."
+      },
+      {
+        "stop_id": "00834",
+        "stop_name": "Guelph St. @ Mill St."
+      },
+      {
+        "stop_id": "02804",
+        "stop_name": "Main St. N. @ Henry St."
+      },
+      {
+        "stop_id": "00854",
+        "stop_name": "Main St. N. @ Moore Park Cres."
+      },
+      {
+        "stop_id": "00848",
+        "stop_name": "Hwy. 7 @ Bethel Rd."
+      },
+      {
+        "stop_id": "00847",
+        "stop_name": "Hwy. 7 @ Banting Rd."
+      },
+      {
+        "stop_id": "00930",
+        "stop_name": "Queen St. @ Tanners Dr."
+      },
+      {
+        "stop_id": "00889",
+        "stop_name": "Queen St. @ Churchill Rd. N."
+      },
+      {
+        "stop_id": "00887",
+        "stop_name": "Queen St. @ Acton Blvd."
+      },
+      {
+        "stop_id": "00913",
+        "stop_name": "Young St. @ Peel St."
+      },
+      {
+        "stop_id": "00868",
+        "stop_name": "Mill St. E. @ Fellows St. (Acton GO)"
+      },
+      {
+        "stop_id": "00865",
+        "stop_name": "Mill St. E. @ Elgin St. N."
+      },
+      {
+        "stop_id": "02722",
+        "stop_name": "Main St. @ Mill St. E."
+      },
+      {
+        "stop_id": "00867",
+        "stop_name": "Main St. N. @ School Ln."
+      },
+      {
+        "stop_id": "00830",
+        "stop_name": "Guelph St. @ Lakeview Ave."
+      },
+      {
+        "stop_id": "00960",
+        "stop_name": "Main St. S. @ Dunbar St."
+      },
+      {
+        "stop_id": "02412",
+        "stop_name": "Main St. S. @ Ridge Rd."
+      },
+      {
+        "stop_id": "00861",
+        "stop_name": "Main St. S. @ Bridge St."
+      },
+      {
+        "stop_id": "00203",
+        "stop_name": "Alma St. @ Inkerman St."
+      },
+      {
+        "stop_id": "00803",
+        "stop_name": "Alma St. @ Fall St. (Rockwood Conservation Area)"
+      },
+      {
+        "stop_id": "02719",
+        "stop_name": "York St. @ 800 York St."
+      },
+      {
+        "stop_id": "01702",
+        "stop_name": "Elizabeth St. @ Beaumont Cr."
+      },
+      {
+        "stop_id": "02720",
+        "stop_name": "Elizabeth St. @ Victoria Rd."
+      },
+      {
+        "stop_id": "01703",
+        "stop_name": "Elizabeth St. @ Stevenson St. S."
+      },
+      {
+        "stop_id": "02518",
+        "stop_name": "MacDonell St. @ Carden St. (Guelph Central GO)"
+      },
+      {
+        "stop_id": "00201",
+        "stop_name": "University of Guelph"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-32",
+    "route_short_name": "32",
+    "route_long_name": "Brampton Trinity Common / North York",
+    "route_color": "00853e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00013",
+        "stop_name": "Finch Bus Terminal"
+      },
+      {
+        "stop_id": "01645",
+        "stop_name": "Yonge St. @ Cummer Ave."
+      },
+      {
+        "stop_id": "00074",
+        "stop_name": "Yonge St. @ Steeles Ave. W."
+      },
+      {
+        "stop_id": "02012",
+        "stop_name": "Yonge St. @ Doncaster Ave."
+      },
+      {
+        "stop_id": "02127",
+        "stop_name": "Yonge St. @ Clark Ave. E."
+      },
+      {
+        "stop_id": "02043",
+        "stop_name": "Yonge St. @ John St."
+      },
+      {
+        "stop_id": "02079",
+        "stop_name": "Yonge St. @ Royal Orchard Blvd."
+      },
+      {
+        "stop_id": "00014",
+        "stop_name": "Yonge St. @ Langstaff Rd. E."
+      },
+      {
+        "stop_id": "08044",
+        "stop_name": "Bramalea GO Bus"
+      },
+      {
+        "stop_id": "01165",
+        "stop_name": "Bramalea Rd. @ Dearbourne Blvd."
+      },
+      {
+        "stop_id": "01161",
+        "stop_name": "Bramalea Rd. @ Balmoral Dr."
+      },
+      {
+        "stop_id": "01184",
+        "stop_name": "Clark Blvd. @ Kings Cross Rd."
+      },
+      {
+        "stop_id": "00225",
+        "stop_name": "Bramalea Bus Terminal"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-33",
+    "route_short_name": "33",
+    "route_long_name": "Guelph / North York",
+    "route_color": "00853e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00011",
+        "stop_name": "York Mills Bus Terminal"
+      },
+      {
+        "stop_id": "01657",
+        "stop_name": "Yonge St. @ William Carson Cr."
+      },
+      {
+        "stop_id": "00019",
+        "stop_name": "Yorkdale Bus Terminal"
+      },
+      {
+        "stop_id": "00020",
+        "stop_name": "Hwy. 401 @ Keele St."
+      },
+      {
+        "stop_id": "00354",
+        "stop_name": "Hurontario St. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "00990",
+        "stop_name": "Hurontario St. @ County Court Blvd."
+      },
+      {
+        "stop_id": "00989",
+        "stop_name": "Hurontario St. @ County Court Blvd."
+      },
+      {
+        "stop_id": "00222",
+        "stop_name": "Shopper's World"
+      },
+      {
+        "stop_id": "01307",
+        "stop_name": "Main St. S. @ Elgin Dr."
+      },
+      {
+        "stop_id": "02746",
+        "stop_name": "Main St. S. @ Nanwood Dr."
+      },
+      {
+        "stop_id": "01306",
+        "stop_name": "Main St. S. @ Clarence St."
+      },
+      {
+        "stop_id": "01311",
+        "stop_name": "Wellington St. W. @ George St. S."
+      },
+      {
+        "stop_id": "00221",
+        "stop_name": "Brampton Bus Terminal"
+      },
+      {
+        "stop_id": "01321",
+        "stop_name": "Main St. N. @ Vodden St. E."
+      },
+      {
+        "stop_id": "01454",
+        "stop_name": "Main St. N. @ Williams Pkwy."
+      },
+      {
+        "stop_id": "00292",
+        "stop_name": "Bovaird Dr. W. @ Hurontario St."
+      },
+      {
+        "stop_id": "02712",
+        "stop_name": "Bovaird Dr. W. @ McLaughlin Rd. N."
+      },
+      {
+        "stop_id": "00217",
+        "stop_name": "Bovaird Dr. W. @ Chinguacousy Rd."
+      },
+      {
+        "stop_id": "01153",
+        "stop_name": "Bovaird Dr. W. @ Worthington Ave."
+      },
+      {
+        "stop_id": "00296",
+        "stop_name": "Mount Pleasant GO Bus"
+      },
+      {
+        "stop_id": "00215",
+        "stop_name": "Bovaird Dr. W. @ Mississauga Rd."
+      },
+      {
+        "stop_id": "00839",
+        "stop_name": "Guelph St. @ Noble St."
+      },
+      {
+        "stop_id": "00213",
+        "stop_name": "Guelph St. @ King St."
+      },
+      {
+        "stop_id": "00833",
+        "stop_name": "Guelph St. @ McFarlane Dr."
+      },
+      {
+        "stop_id": "00828",
+        "stop_name": "Guelph St. @ Delrex Blvd."
+      },
+      {
+        "stop_id": "00824",
+        "stop_name": "Guelph St. @ Armstrong Ave."
+      },
+      {
+        "stop_id": "00844",
+        "stop_name": "279 Guelph St. @ Sinclair Ave."
+      },
+      {
+        "stop_id": "00842",
+        "stop_name": "Guelph St. @ Sinclair Ave."
+      },
+      {
+        "stop_id": "00211",
+        "stop_name": "Guelph St. @ Alcott Dr."
+      },
+      {
+        "stop_id": "00924",
+        "stop_name": "Guelph St. @ Mountainview Rd. N."
+      },
+      {
+        "stop_id": "02633",
+        "stop_name": "Mountainview Rd. N. @ Maple Ave."
+      },
+      {
+        "stop_id": "02413",
+        "stop_name": "Georgetown GO Bus"
+      },
+      {
+        "stop_id": "02801",
+        "stop_name": "Maple Ave. @ Mountainview Rd. N."
+      },
+      {
+        "stop_id": "00832",
+        "stop_name": "Guelph St. @ Maple Ave."
+      },
+      {
+        "stop_id": "00834",
+        "stop_name": "Guelph St. @ Mill St."
+      },
+      {
+        "stop_id": "02804",
+        "stop_name": "Main St. N. @ Henry St."
+      },
+      {
+        "stop_id": "00854",
+        "stop_name": "Main St. N. @ Moore Park Cres."
+      },
+      {
+        "stop_id": "00848",
+        "stop_name": "Hwy. 7 @ Bethel Rd."
+      },
+      {
+        "stop_id": "00847",
+        "stop_name": "Hwy. 7 @ Banting Rd."
+      },
+      {
+        "stop_id": "00930",
+        "stop_name": "Queen St. @ Tanners Dr."
+      },
+      {
+        "stop_id": "00889",
+        "stop_name": "Queen St. @ Churchill Rd. N."
+      },
+      {
+        "stop_id": "00887",
+        "stop_name": "Queen St. @ Acton Blvd."
+      },
+      {
+        "stop_id": "00913",
+        "stop_name": "Young St. @ Peel St."
+      },
+      {
+        "stop_id": "00868",
+        "stop_name": "Mill St. E. @ Fellows St. (Acton GO)"
+      },
+      {
+        "stop_id": "00865",
+        "stop_name": "Mill St. E. @ Elgin St. N."
+      },
+      {
+        "stop_id": "02722",
+        "stop_name": "Main St. @ Mill St. E."
+      },
+      {
+        "stop_id": "00867",
+        "stop_name": "Main St. N. @ School Ln."
+      },
+      {
+        "stop_id": "00830",
+        "stop_name": "Guelph St. @ Lakeview Ave."
+      },
+      {
+        "stop_id": "00960",
+        "stop_name": "Main St. S. @ Dunbar St."
+      },
+      {
+        "stop_id": "02412",
+        "stop_name": "Main St. S. @ Ridge Rd."
+      },
+      {
+        "stop_id": "00861",
+        "stop_name": "Main St. S. @ Bridge St."
+      },
+      {
+        "stop_id": "00203",
+        "stop_name": "Alma St. @ Inkerman St."
+      },
+      {
+        "stop_id": "00803",
+        "stop_name": "Alma St. @ Fall St. (Rockwood Conservation Area)"
+      },
+      {
+        "stop_id": "02719",
+        "stop_name": "York St. @ 800 York St."
+      },
+      {
+        "stop_id": "01702",
+        "stop_name": "Elizabeth St. @ Beaumont Cr."
+      },
+      {
+        "stop_id": "02720",
+        "stop_name": "Elizabeth St. @ Victoria Rd."
+      },
+      {
+        "stop_id": "01703",
+        "stop_name": "Elizabeth St. @ Stevenson St. S."
+      },
+      {
+        "stop_id": "02518",
+        "stop_name": "MacDonell St. @ Carden St. (Guelph Central GO)"
+      },
+      {
+        "stop_id": "00201",
+        "stop_name": "University of Guelph"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-35",
+    "route_short_name": "35",
+    "route_long_name": "Union Pearson Express",
+    "route_color": "00a6ff",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02300",
+        "stop_name": "Union Station Bus Terminal"
+      },
+      {
+        "stop_id": "PA",
+        "stop_name": "Pearson Airport Terminal 1"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-36",
+    "route_short_name": "36",
+    "route_long_name": "Brampton / North York Express",
+    "route_color": "00853e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00011",
+        "stop_name": "York Mills Bus Terminal"
+      },
+      {
+        "stop_id": "01657",
+        "stop_name": "Yonge St. @ William Carson Cr."
+      },
+      {
+        "stop_id": "00019",
+        "stop_name": "Yorkdale Bus Terminal"
+      },
+      {
+        "stop_id": "00020",
+        "stop_name": "Hwy. 401 @ Keele St."
+      },
+      {
+        "stop_id": "08044",
+        "stop_name": "Bramalea GO Bus"
+      },
+      {
+        "stop_id": "01165",
+        "stop_name": "Bramalea Rd. @ Dearbourne Blvd."
+      },
+      {
+        "stop_id": "01161",
+        "stop_name": "Bramalea Rd. @ Balmoral Dr."
+      },
+      {
+        "stop_id": "01184",
+        "stop_name": "Clark Blvd. @ Kings Cross Rd."
+      },
+      {
+        "stop_id": "08032",
+        "stop_name": "Bramalea Bus Terminal"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-37",
+    "route_short_name": "37",
+    "route_long_name": "Orangeville / Brampton",
+    "route_color": "00853e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00221",
+        "stop_name": "Brampton Bus Terminal"
+      },
+      {
+        "stop_id": "01321",
+        "stop_name": "Main St. N. @ Vodden St. E."
+      },
+      {
+        "stop_id": "01454",
+        "stop_name": "Main St. N. @ Williams Pkwy."
+      },
+      {
+        "stop_id": "01258",
+        "stop_name": "Hurontario St. @ Bovaird Dr. W."
+      },
+      {
+        "stop_id": "01452",
+        "stop_name": "Hurontario St. @ Sandalwood Pkwy. E."
+      },
+      {
+        "stop_id": "01261",
+        "stop_name": "Hurontario St. @ Conservation Dr."
+      },
+      {
+        "stop_id": "00249",
+        "stop_name": "Hurontario St. @ Mayfield Rd."
+      },
+      {
+        "stop_id": "02567",
+        "stop_name": "Hurontario St. @ Old School Rd."
+      },
+      {
+        "stop_id": "00251",
+        "stop_name": "Hurontario St. @ King St."
+      },
+      {
+        "stop_id": "01280",
+        "stop_name": "Hurontario St. @ Boston Mills Rd."
+      },
+      {
+        "stop_id": "01288",
+        "stop_name": "Hurontario St. @ Olde Baseline Rd."
+      },
+      {
+        "stop_id": "01283",
+        "stop_name": "Hurontario St. @ Forks of The Credit Rd."
+      },
+      {
+        "stop_id": "01487",
+        "stop_name": "Hurontario St. @ Travelled Rd."
+      },
+      {
+        "stop_id": "01292",
+        "stop_name": "Hurontario St. @ Travelled Rd."
+      },
+      {
+        "stop_id": "00253",
+        "stop_name": "Hurontario St. @ Charleston Side Rd."
+      },
+      {
+        "stop_id": "01282",
+        "stop_name": "Hurontario St. @ Chester Dr."
+      },
+      {
+        "stop_id": "01290",
+        "stop_name": "Hurontario St. @ Terry St."
+      },
+      {
+        "stop_id": "01285",
+        "stop_name": "Hurontario St. @ McCannell Ave."
+      },
+      {
+        "stop_id": "00255",
+        "stop_name": "Hwy. 10 @ Buena Vista Dr."
+      },
+      {
+        "stop_id": "01279",
+        "stop_name": "Hwy. 10 @ 4th Ave."
+      },
+      {
+        "stop_id": "00257",
+        "stop_name": "Hansen Blvd. @ First St. (Orangeville Mall)"
+      },
+      {
+        "stop_id": "01255",
+        "stop_name": "Hansen Blvd. @ Michael Dr."
+      },
+      {
+        "stop_id": "01256",
+        "stop_name": "Hansen Blvd. @ Scott Dr."
+      },
+      {
+        "stop_id": "02512",
+        "stop_name": "Blind Line @ Hansen Blvd."
+      },
+      {
+        "stop_id": "02513",
+        "stop_name": "Blind Line @ College Ave."
+      },
+      {
+        "stop_id": "01143",
+        "stop_name": "Blind Line @ St. Andrews Dr."
+      },
+      {
+        "stop_id": "01140",
+        "stop_name": "Blind Line @ Banting Dr."
+      },
+      {
+        "stop_id": "00258",
+        "stop_name": "Broadway @ Blind Line"
+      },
+      {
+        "stop_id": "01171",
+        "stop_name": "Broadway @ Banting Dr."
+      },
+      {
+        "stop_id": "01173",
+        "stop_name": "Broadway @ Dawson Rd."
+      },
+      {
+        "stop_id": "01172",
+        "stop_name": "Broadway @ Centre St."
+      },
+      {
+        "stop_id": "01174",
+        "stop_name": "Broadway @ John St."
+      },
+      {
+        "stop_id": "01177",
+        "stop_name": "Broadway @ Wellington St."
+      },
+      {
+        "stop_id": "01170",
+        "stop_name": "Broadway @ 4th St."
+      },
+      {
+        "stop_id": "01176",
+        "stop_name": "Broadway @ Townline"
+      },
+      {
+        "stop_id": "00349",
+        "stop_name": "Townline @ Mill St. (Orangeville) Park & Ride"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-38",
+    "route_short_name": "38",
+    "route_long_name": "Bolton / Malton",
+    "route_color": "00853e",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00228",
+        "stop_name": "Malton GO Bus"
+      },
+      {
+        "stop_id": "00241",
+        "stop_name": "Finch Ave. W. @ Longo Circle"
+      },
+      {
+        "stop_id": "01249",
+        "stop_name": "Finch Ave. @ Kenview Blvd. (Wild Water Kingdom)"
+      },
+      {
+        "stop_id": "01393",
+        "stop_name": "Albion Rd. @ Steeles Ave. W."
+      },
+      {
+        "stop_id": "02533",
+        "stop_name": "Hwy. 50 @ Queen St. E."
+      },
+      {
+        "stop_id": "02534",
+        "stop_name": "Hwy. 50 @ Ebenezer Rd."
+      },
+      {
+        "stop_id": "00962",
+        "stop_name": "Hwy. 50 @ Langstaff Rd."
+      },
+      {
+        "stop_id": "00969",
+        "stop_name": "Hwy. 50 @ Trade Valley Dr."
+      },
+      {
+        "stop_id": "00963",
+        "stop_name": "Regional Rd. 50 @ Rutherford Rd."
+      },
+      {
+        "stop_id": "00339",
+        "stop_name": "Regional Rd. 50 @ Nashville Rd."
+      },
+      {
+        "stop_id": "01448",
+        "stop_name": "Mayfield Rd. @ Hwy. 50 Park & Ride"
+      },
+      {
+        "stop_id": "01403",
+        "stop_name": "Regional Rd. 50 @ George Bolton Pkwy."
+      },
+      {
+        "stop_id": "01405",
+        "stop_name": "Hwy. 50 @ McEwan Dr."
+      },
+      {
+        "stop_id": "01407",
+        "stop_name": "Regional Rd. 50 @ Queensgate Blvd."
+      },
+      {
+        "stop_id": "00347",
+        "stop_name": "Queen St. S. @ Allan Dr."
+      },
+      {
+        "stop_id": "01335",
+        "stop_name": "Queen St. S. @ Downey Dr."
+      },
+      {
+        "stop_id": "02682",
+        "stop_name": "Queen St. @ Mill St."
+      },
+      {
+        "stop_id": "01409",
+        "stop_name": "Regional Rd. 50 @ Bolton Heights Dr."
+      },
+      {
+        "stop_id": "00338",
+        "stop_name": "Hwy. 50 @ Columbia Way"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-40",
+    "route_short_name": "40",
+    "route_long_name": "Hamilton / Richmond Hill",
+    "route_color": "a11984",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00128",
+        "stop_name": "Unionville GO Bus"
+      },
+      {
+        "stop_id": "02141",
+        "stop_name": "YMCA Blvd. @ Kennedy Rd."
+      },
+      {
+        "stop_id": "02771",
+        "stop_name": "Yonge St. @ Hwy. 407"
+      },
+      {
+        "stop_id": "00350",
+        "stop_name": "Richmond Hill Centre"
+      },
+      {
+        "stop_id": "02021",
+        "stop_name": "Yonge St. @ Garden Ave."
+      },
+      {
+        "stop_id": "02674",
+        "stop_name": "Hwy 407 Bus Terminal"
+      },
+      {
+        "stop_id": "02871",
+        "stop_name": "Humber College North Campus"
+      },
+      {
+        "stop_id": "PA",
+        "stop_name": "Pearson Airport Terminal 1"
+      },
+      {
+        "stop_id": "02209",
+        "stop_name": "Renforth Dr. @ Convair Dr."
+      },
+      {
+        "stop_id": "02660",
+        "stop_name": "Renforth Transitway Station"
+      },
+      {
+        "stop_id": "02658",
+        "stop_name": "Dixie Transitway Station"
+      },
+      {
+        "stop_id": "00133",
+        "stop_name": "Square One"
+      },
+      {
+        "stop_id": "02163",
+        "stop_name": "Trafalgar Rd. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "00139",
+        "stop_name": "Dundas St. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "01010",
+        "stop_name": "Main St. W. @ Paisley Ave. S."
+      },
+      {
+        "stop_id": "00732",
+        "stop_name": "Main St. W. @ Longwood Rd. S."
+      },
+      {
+        "stop_id": "01009",
+        "stop_name": "Main St. W. @ Macklin St. S."
+      },
+      {
+        "stop_id": "01008",
+        "stop_name": "Main St. W. @ Dundurn St. S."
+      },
+      {
+        "stop_id": "01011",
+        "stop_name": "Main St. W. @ Pearl St. S."
+      },
+      {
+        "stop_id": "01012",
+        "stop_name": "Main St. W. @ Ray St. S."
+      },
+      {
+        "stop_id": "01007",
+        "stop_name": "Main St. W. @ Caroline St. S."
+      },
+      {
+        "stop_id": "01014",
+        "stop_name": "Main St. W. @ Summers Ln. (Hamilton City Hall)"
+      },
+      {
+        "stop_id": "00141",
+        "stop_name": "Hamilton GO Centre Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-41",
+    "route_short_name": "41",
+    "route_long_name": "Hamilton / Pickering",
+    "route_color": "a21984",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00141",
+        "stop_name": "Hamilton GO Centre Bus"
+      },
+      {
+        "stop_id": "01002",
+        "stop_name": "King St. E. @ Hughson St. N."
+      },
+      {
+        "stop_id": "01006",
+        "stop_name": "King St. W. @ Summers Ln. (Hamilton Place)"
+      },
+      {
+        "stop_id": "02759",
+        "stop_name": "King St. W. @ Queen St. N."
+      },
+      {
+        "stop_id": "01004",
+        "stop_name": "King St. W. @ Pearl St. N."
+      },
+      {
+        "stop_id": "01005",
+        "stop_name": "King St. W. @ Strathcona Ave. N."
+      },
+      {
+        "stop_id": "00178",
+        "stop_name": "King St. W. @ Dundurn St. N."
+      },
+      {
+        "stop_id": "02185",
+        "stop_name": "Main St. W. @ Haddon Ave. S."
+      },
+      {
+        "stop_id": "00310",
+        "stop_name": "McMaster University"
+      },
+      {
+        "stop_id": "00139",
+        "stop_name": "Dundas St. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "00138",
+        "stop_name": "Bronte Rd. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "02163",
+        "stop_name": "Trafalgar Rd. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "02214",
+        "stop_name": "Erin Mills Transitway Station"
+      },
+      {
+        "stop_id": "00132",
+        "stop_name": "Square One"
+      },
+      {
+        "stop_id": "08041",
+        "stop_name": "Bramalea GO Bus"
+      },
+      {
+        "stop_id": "02673",
+        "stop_name": "Hwy 407 Bus Terminal"
+      },
+      {
+        "stop_id": "02771",
+        "stop_name": "Yonge St. @ Hwy. 407"
+      },
+      {
+        "stop_id": "00350",
+        "stop_name": "Richmond Hill Centre"
+      },
+      {
+        "stop_id": "02021",
+        "stop_name": "Yonge St. @ Garden Ave."
+      },
+      {
+        "stop_id": "02838",
+        "stop_name": "Sheppard Ave. E. @ Herons Hill Way"
+      },
+      {
+        "stop_id": "02756",
+        "stop_name": "Consumers Rd. @ William Sylvester Dr."
+      },
+      {
+        "stop_id": "02816",
+        "stop_name": "Scarborough Centre Bus Terminal"
+      },
+      {
+        "stop_id": "00358",
+        "stop_name": "Centennial College"
+      },
+      {
+        "stop_id": "02540",
+        "stop_name": "Morningside Ave. @ Tams Rd."
+      },
+      {
+        "stop_id": "02650",
+        "stop_name": "Military Trail. @ Pan Am Dr."
+      },
+      {
+        "stop_id": "00144",
+        "stop_name": "University of Toronto Scarborough"
+      },
+      {
+        "stop_id": "02651",
+        "stop_name": "Military Trail. @ Pan Am Dr."
+      },
+      {
+        "stop_id": "02541",
+        "stop_name": "Morningside Ave. @ Tams Rd."
+      },
+      {
+        "stop_id": "00634",
+        "stop_name": "Kingston Rd. @ Whites Rd."
+      },
+      {
+        "stop_id": "00312",
+        "stop_name": "Kingston Rd. @ Fairport Rd."
+      },
+      {
+        "stop_id": "00971",
+        "stop_name": "Kingston Rd. @ Walnut Ln."
+      },
+      {
+        "stop_id": "00726",
+        "stop_name": "Liverpool Rd. @ Pickering Pkwy."
+      },
+      {
+        "stop_id": "00147",
+        "stop_name": "Pickering GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-43",
+    "route_short_name": "43",
+    "route_long_name": "Mount Pleasant / McMaster",
+    "route_color": "a21884",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00310",
+        "stop_name": "McMaster University"
+      },
+      {
+        "stop_id": "00139",
+        "stop_name": "Dundas St. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "02163",
+        "stop_name": "Trafalgar Rd. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "01193",
+        "stop_name": "Derry Rd. W. @ Ninth Line"
+      },
+      {
+        "stop_id": "01198",
+        "stop_name": "Derry Rd. W. @ Lisgar Dr."
+      },
+      {
+        "stop_id": "01197",
+        "stop_name": "Derry Rd. W. @ Forest Park Dr."
+      },
+      {
+        "stop_id": "01202",
+        "stop_name": "Derry Rd. W. @ Tenth Line W."
+      },
+      {
+        "stop_id": "01195",
+        "stop_name": "Derry Rd. W. @ Danton Promenade"
+      },
+      {
+        "stop_id": "01481",
+        "stop_name": "Derry Rd. W. @ Winston Churchill Blvd."
+      },
+      {
+        "stop_id": "01483",
+        "stop_name": "Winston Churchill Blvd. @ Vanderbilt Rd."
+      },
+      {
+        "stop_id": "00191",
+        "stop_name": "Aquitaine Ave. @ Meadowvale Town Centre Circle"
+      },
+      {
+        "stop_id": "01134",
+        "stop_name": "Aquitaine Ave. @ Glen Erin Dr."
+      },
+      {
+        "stop_id": "01136",
+        "stop_name": "Aquitaine Ave. @ Montevideo Rd."
+      },
+      {
+        "stop_id": "01138",
+        "stop_name": "Aquitaine Ave. @ Millcreek Dr."
+      },
+      {
+        "stop_id": "00129",
+        "stop_name": "Meadowvale GO Bus"
+      },
+      {
+        "stop_id": "02881",
+        "stop_name": "Millcreek Dr. @ Millrace Crt."
+      },
+      {
+        "stop_id": "01326",
+        "stop_name": "Millcreek Dr. @ Millrace Crt. E."
+      },
+      {
+        "stop_id": "01243",
+        "stop_name": "Erin Mills Pkwy. @ Millcreek Dr."
+      },
+      {
+        "stop_id": "00197",
+        "stop_name": "Mississauga Rd. @ Mississauga Rd."
+      },
+      {
+        "stop_id": "01439",
+        "stop_name": "Mississauga Rd. @ Argentia Rd."
+      },
+      {
+        "stop_id": "01440",
+        "stop_name": "Mississauga Rd. @ Royal Bank Dr."
+      },
+      {
+        "stop_id": "02893",
+        "stop_name": "Mississauga Rd. @ Steeles Ave. W."
+      },
+      {
+        "stop_id": "02891",
+        "stop_name": "Mississauga Rd. @ Williams Pkwy."
+      },
+      {
+        "stop_id": "02861",
+        "stop_name": "Bovaird Dr. W. @ Mississauga Rd."
+      },
+      {
+        "stop_id": "00296",
+        "stop_name": "Mount Pleasant GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-47",
+    "route_short_name": "47",
+    "route_long_name": "Hamilton / Hwy 407 Terminal",
+    "route_color": "a21984",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02674",
+        "stop_name": "Hwy 407 Bus Terminal"
+      },
+      {
+        "stop_id": "02728",
+        "stop_name": "Bramalea GO Bus"
+      },
+      {
+        "stop_id": "00133",
+        "stop_name": "Square One"
+      },
+      {
+        "stop_id": "02215",
+        "stop_name": "Erin Mills Transitway Station"
+      },
+      {
+        "stop_id": "02163",
+        "stop_name": "Trafalgar Rd. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "00138",
+        "stop_name": "Bronte Rd. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "00139",
+        "stop_name": "Dundas St. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "02185",
+        "stop_name": "Main St. W. @ Haddon Ave. S."
+      },
+      {
+        "stop_id": "00310",
+        "stop_name": "McMaster University"
+      },
+      {
+        "stop_id": "01010",
+        "stop_name": "Main St. W. @ Paisley Ave. S."
+      },
+      {
+        "stop_id": "00732",
+        "stop_name": "Main St. W. @ Longwood Rd. S."
+      },
+      {
+        "stop_id": "01009",
+        "stop_name": "Main St. W. @ Macklin St. S."
+      },
+      {
+        "stop_id": "01008",
+        "stop_name": "Main St. W. @ Dundurn St. S."
+      },
+      {
+        "stop_id": "01011",
+        "stop_name": "Main St. W. @ Pearl St. S."
+      },
+      {
+        "stop_id": "01012",
+        "stop_name": "Main St. W. @ Ray St. S."
+      },
+      {
+        "stop_id": "01007",
+        "stop_name": "Main St. W. @ Caroline St. S."
+      },
+      {
+        "stop_id": "01014",
+        "stop_name": "Main St. W. @ Summers Ln. (Hamilton City Hall)"
+      },
+      {
+        "stop_id": "00141",
+        "stop_name": "Hamilton GO Centre Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-48",
+    "route_short_name": "48",
+    "route_long_name": "Guelph / Hwy 407 Terminal",
+    "route_color": "a21884",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00201",
+        "stop_name": "University of Guelph"
+      },
+      {
+        "stop_id": "01708",
+        "stop_name": "Gordon St. @ Stone Rd."
+      },
+      {
+        "stop_id": "02718",
+        "stop_name": "Gordon St. @ Kortright Rd."
+      },
+      {
+        "stop_id": "01712",
+        "stop_name": "Gordon St. @ Edinburgh Rd. S."
+      },
+      {
+        "stop_id": "01714",
+        "stop_name": "Gordon St. @ Arkell Rd."
+      },
+      {
+        "stop_id": "01716",
+        "stop_name": "Gordon St. @ Clairfields Dr. W."
+      },
+      {
+        "stop_id": "02845",
+        "stop_name": "Gordon St. @ Clair Rd. W."
+      },
+      {
+        "stop_id": "01718",
+        "stop_name": "Brock Rd. S. @ Maple Leaf Ln."
+      },
+      {
+        "stop_id": "02884",
+        "stop_name": "Brock Rd. S. @ Gilmour Rd."
+      },
+      {
+        "stop_id": "00337",
+        "stop_name": "Brock Rd. @ McLean Rd. (Aberfoyle) Park & Ride"
+      },
+      {
+        "stop_id": "02151",
+        "stop_name": "Regional Rd. 25 @ Hwy. 401 Park & Ride"
+      },
+      {
+        "stop_id": "01193",
+        "stop_name": "Derry Rd. W. @ Ninth Line"
+      },
+      {
+        "stop_id": "01198",
+        "stop_name": "Derry Rd. W. @ Lisgar Dr."
+      },
+      {
+        "stop_id": "01197",
+        "stop_name": "Derry Rd. W. @ Forest Park Dr."
+      },
+      {
+        "stop_id": "01202",
+        "stop_name": "Derry Rd. W. @ Tenth Line W."
+      },
+      {
+        "stop_id": "01195",
+        "stop_name": "Derry Rd. W. @ Danton Promenade"
+      },
+      {
+        "stop_id": "01481",
+        "stop_name": "Derry Rd. W. @ Winston Churchill Blvd."
+      },
+      {
+        "stop_id": "01483",
+        "stop_name": "Winston Churchill Blvd. @ Vanderbilt Rd."
+      },
+      {
+        "stop_id": "00191",
+        "stop_name": "Aquitaine Ave. @ Meadowvale Town Centre Circle"
+      },
+      {
+        "stop_id": "01134",
+        "stop_name": "Aquitaine Ave. @ Glen Erin Dr."
+      },
+      {
+        "stop_id": "01136",
+        "stop_name": "Aquitaine Ave. @ Montevideo Rd."
+      },
+      {
+        "stop_id": "01138",
+        "stop_name": "Aquitaine Ave. @ Millcreek Dr."
+      },
+      {
+        "stop_id": "00129",
+        "stop_name": "Meadowvale GO Bus"
+      },
+      {
+        "stop_id": "02881",
+        "stop_name": "Millcreek Dr. @ Millrace Crt."
+      },
+      {
+        "stop_id": "01326",
+        "stop_name": "Millcreek Dr. @ Millrace Crt. E."
+      },
+      {
+        "stop_id": "01243",
+        "stop_name": "Erin Mills Pkwy. @ Millcreek Dr."
+      },
+      {
+        "stop_id": "00197",
+        "stop_name": "Mississauga Rd. @ Mississauga Rd."
+      },
+      {
+        "stop_id": "01439",
+        "stop_name": "Mississauga Rd. @ Argentia Rd."
+      },
+      {
+        "stop_id": "01440",
+        "stop_name": "Mississauga Rd. @ Royal Bank Dr."
+      },
+      {
+        "stop_id": "00354",
+        "stop_name": "Hurontario St. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "08041",
+        "stop_name": "Bramalea GO Bus"
+      },
+      {
+        "stop_id": "02673",
+        "stop_name": "Hwy 407 Bus Terminal"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-52",
+    "route_short_name": "52",
+    "route_long_name": "Oshawa / Hwy 407 Terminal",
+    "route_color": "6f298d",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00159",
+        "stop_name": "Durham College Oshawa GO"
+      },
+      {
+        "stop_id": "02873",
+        "stop_name": "Gibb St. @ Oshawa Centre"
+      },
+      {
+        "stop_id": "02749",
+        "stop_name": "Simcoe St. S. @ Athol St. E."
+      },
+      {
+        "stop_id": "02839",
+        "stop_name": "Simcoe St. N. @ Richmond St. E."
+      },
+      {
+        "stop_id": "02543",
+        "stop_name": "Simcoe St. N. @ Parkwood Crt."
+      },
+      {
+        "stop_id": "00153",
+        "stop_name": "Durham College Campus/Ontario Tech University"
+      },
+      {
+        "stop_id": "02684",
+        "stop_name": "Simcoe St. @ Britannia Ave."
+      },
+      {
+        "stop_id": "02787",
+        "stop_name": "Simcoe St. N. @ Windfields Farm Dr."
+      },
+      {
+        "stop_id": "02779",
+        "stop_name": "Baldwin St. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "02539",
+        "stop_name": "Brock Rd. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "02815",
+        "stop_name": "Cornell Bus Terminal"
+      },
+      {
+        "stop_id": "02144",
+        "stop_name": "YMCA Blvd. @ Kennedy Rd."
+      },
+      {
+        "stop_id": "00128",
+        "stop_name": "Unionville GO Bus"
+      },
+      {
+        "stop_id": "02141",
+        "stop_name": "YMCA Blvd. @ Kennedy Rd."
+      },
+      {
+        "stop_id": "02771",
+        "stop_name": "Yonge St. @ Hwy. 407"
+      },
+      {
+        "stop_id": "00350",
+        "stop_name": "Richmond Hill Centre"
+      },
+      {
+        "stop_id": "02021",
+        "stop_name": "Yonge St. @ Garden Ave."
+      },
+      {
+        "stop_id": "02673",
+        "stop_name": "Hwy 407 Bus Terminal"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-56",
+    "route_short_name": "56",
+    "route_long_name": "Oshawa / Oakville",
+    "route_color": "6f298d",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00159",
+        "stop_name": "Durham College Oshawa GO"
+      },
+      {
+        "stop_id": "02873",
+        "stop_name": "Gibb St. @ Oshawa Centre"
+      },
+      {
+        "stop_id": "02749",
+        "stop_name": "Simcoe St. S. @ Athol St. E."
+      },
+      {
+        "stop_id": "02839",
+        "stop_name": "Simcoe St. N. @ Richmond St. E."
+      },
+      {
+        "stop_id": "02543",
+        "stop_name": "Simcoe St. N. @ Parkwood Crt."
+      },
+      {
+        "stop_id": "00153",
+        "stop_name": "Durham College Campus/Ontario Tech University"
+      },
+      {
+        "stop_id": "02684",
+        "stop_name": "Simcoe St. @ Britannia Ave."
+      },
+      {
+        "stop_id": "02787",
+        "stop_name": "Simcoe St. N. @ Windfields Farm Dr."
+      },
+      {
+        "stop_id": "02779",
+        "stop_name": "Baldwin St. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "02539",
+        "stop_name": "Brock Rd. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "02815",
+        "stop_name": "Cornell Bus Terminal"
+      },
+      {
+        "stop_id": "02144",
+        "stop_name": "YMCA Blvd. @ Kennedy Rd."
+      },
+      {
+        "stop_id": "00128",
+        "stop_name": "Unionville GO Bus"
+      },
+      {
+        "stop_id": "02141",
+        "stop_name": "YMCA Blvd. @ Kennedy Rd."
+      },
+      {
+        "stop_id": "02771",
+        "stop_name": "Yonge St. @ Hwy. 407"
+      },
+      {
+        "stop_id": "00350",
+        "stop_name": "Richmond Hill Centre"
+      },
+      {
+        "stop_id": "02021",
+        "stop_name": "Yonge St. @ Garden Ave."
+      },
+      {
+        "stop_id": "02674",
+        "stop_name": "Hwy 407 Bus Terminal"
+      },
+      {
+        "stop_id": "02728",
+        "stop_name": "Bramalea GO Bus"
+      },
+      {
+        "stop_id": "00133",
+        "stop_name": "Square One"
+      },
+      {
+        "stop_id": "02215",
+        "stop_name": "Erin Mills Transitway Station"
+      },
+      {
+        "stop_id": "02163",
+        "stop_name": "Trafalgar Rd. @ Hwy. 407 Park & Ride"
+      },
+      {
+        "stop_id": "01441",
+        "stop_name": "Trafalgar Rd. @ Burnhamthorpe Rd."
+      },
+      {
+        "stop_id": "02700",
+        "stop_name": "Trafalgar Rd. @ Dundas St."
+      },
+      {
+        "stop_id": "02786",
+        "stop_name": "Trafalgar Rd. @ Rosegate Way"
+      },
+      {
+        "stop_id": "02763",
+        "stop_name": "Trafalgar Rd. @ Glenashton Dr."
+      },
+      {
+        "stop_id": "02764",
+        "stop_name": "Trafalgar Rd. @ River Oaks Blvd. E."
+      },
+      {
+        "stop_id": "02765",
+        "stop_name": "Trafalgar Rd. @ Upper Middle Rd. E."
+      },
+      {
+        "stop_id": "00939",
+        "stop_name": "Sheridan College"
+      },
+      {
+        "stop_id": "02766",
+        "stop_name": "Trafalgar Rd. @ McCraney St. E."
+      },
+      {
+        "stop_id": "01729",
+        "stop_name": "Trafalgar Rd. @ Leighland Ave."
+      },
+      {
+        "stop_id": "00137",
+        "stop_name": "Oakville GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-61",
+    "route_short_name": "61",
+    "route_long_name": "Richmond Hill",
+    "route_color": "0099c7",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02300",
+        "stop_name": "Union Station Bus Terminal"
+      },
+      {
+        "stop_id": "02857",
+        "stop_name": "Bayview Ave. @ Hwy. 7"
+      },
+      {
+        "stop_id": "02856",
+        "stop_name": "Red Maple Rd. @ Hwy. 7 (Langstaff GO)"
+      },
+      {
+        "stop_id": "02032",
+        "stop_name": "Yonge St. @ High Tech Rd."
+      },
+      {
+        "stop_id": "01988",
+        "stop_name": "Yonge St. @ Beresford Dr."
+      },
+      {
+        "stop_id": "01986",
+        "stop_name": "Yonge St. @ Bantry Ave."
+      },
+      {
+        "stop_id": "02069",
+        "stop_name": "Yonge St. @ Northern Heights Dr."
+      },
+      {
+        "stop_id": "02101",
+        "stop_name": "Yonge St. @ Spruce Ave."
+      },
+      {
+        "stop_id": "00731",
+        "stop_name": "Yonge St. @ 16th Ave."
+      },
+      {
+        "stop_id": "00015",
+        "stop_name": "Yonge St. @ 16th Ave. (South Hill Shopping Centre)"
+      },
+      {
+        "stop_id": "02072",
+        "stop_name": "Yonge St. @ Observatory Ln."
+      },
+      {
+        "stop_id": "02095",
+        "stop_name": "Yonge St. @ Weldrick Rd. E."
+      },
+      {
+        "stop_id": "02003",
+        "stop_name": "Yonge St. @ Clarissa Dr."
+      },
+      {
+        "stop_id": "02056",
+        "stop_name": "Yonge St. @ May Ave."
+      },
+      {
+        "stop_id": "02028",
+        "stop_name": "Yonge St. @ Harding Blvd."
+      },
+      {
+        "stop_id": "02019",
+        "stop_name": "Yonge St. @ Elmwood Ave."
+      },
+      {
+        "stop_id": "02052",
+        "stop_name": "Yonge St. @ Major Mackenzie Dr. E."
+      },
+      {
+        "stop_id": "02579",
+        "stop_name": "Major Mackenzie Dr. E. @ Cedar Ave."
+      },
+      {
+        "stop_id": "00062",
+        "stop_name": "Richmond Hill GO Bus"
+      },
+      {
+        "stop_id": "02629",
+        "stop_name": "Gormley GO Bus"
+      },
+      {
+        "stop_id": "02767",
+        "stop_name": "Bloomington GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-65",
+    "route_short_name": "65",
+    "route_long_name": "Newmarket / Toronto",
+    "route_color": "003767",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02300",
+        "stop_name": "Union Station Bus Terminal"
+      },
+      {
+        "stop_id": "00028",
+        "stop_name": "Rutherford GO Bus"
+      },
+      {
+        "stop_id": "02139",
+        "stop_name": "Keele St. @ Barrhill Rd."
+      },
+      {
+        "stop_id": "02158",
+        "stop_name": "Major Mackenzie Dr. W. @ Keele St."
+      },
+      {
+        "stop_id": "02157",
+        "stop_name": "Maple GO Bus"
+      },
+      {
+        "stop_id": "01877",
+        "stop_name": "Keele St. @ Drummond Dr."
+      },
+      {
+        "stop_id": "01888",
+        "stop_name": "Keele St. @ Teston Rd."
+      },
+      {
+        "stop_id": "02175",
+        "stop_name": "Keele St. @ Peak Point Blvd."
+      },
+      {
+        "stop_id": "02172",
+        "stop_name": "Keele St. @ Kirby Rd."
+      },
+      {
+        "stop_id": "00030",
+        "stop_name": "Keele St. @ Burton Grove (King City GO)"
+      },
+      {
+        "stop_id": "00081",
+        "stop_name": "Aurora GO Bus"
+      },
+      {
+        "stop_id": "02521",
+        "stop_name": "Wellington St. E. @ Mary St."
+      },
+      {
+        "stop_id": "02726",
+        "stop_name": "Bayview Ave. @ River Ridge Blvd."
+      },
+      {
+        "stop_id": "02694",
+        "stop_name": "Bayview Ave. @ St. John's Sideroad"
+      },
+      {
+        "stop_id": "02692",
+        "stop_name": "Bayview Ave. @ Mulock Dr."
+      },
+      {
+        "stop_id": "02690",
+        "stop_name": "Prospect St. @ Pearson St."
+      },
+      {
+        "stop_id": "02742",
+        "stop_name": "Prospect St. @ Davis Dr."
+      },
+      {
+        "stop_id": "02634",
+        "stop_name": "Davis Dr. @ Superior St. (Newmarket GO)"
+      },
+      {
+        "stop_id": "00276",
+        "stop_name": "East Gwillimbury GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-67",
+    "route_short_name": "67",
+    "route_long_name": "Keswick / North York",
+    "route_color": "003767",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00013",
+        "stop_name": "Finch Bus Terminal"
+      },
+      {
+        "stop_id": "02709",
+        "stop_name": "Yonge St. @ Finch Ave."
+      },
+      {
+        "stop_id": "01651",
+        "stop_name": "Yonge St. @ Kempford Blvd."
+      },
+      {
+        "stop_id": "01644",
+        "stop_name": "Yonge St. @ Churchill Ave."
+      },
+      {
+        "stop_id": "01654",
+        "stop_name": "Yonge St. @ Ellerslie Ave."
+      },
+      {
+        "stop_id": "00077",
+        "stop_name": "Yonge St. @ Park Home Ave."
+      },
+      {
+        "stop_id": "00300",
+        "stop_name": "Yonge St. @ North York Blvd."
+      },
+      {
+        "stop_id": "00299",
+        "stop_name": "Yonge St. @ Elmhurst Ave."
+      },
+      {
+        "stop_id": "00008",
+        "stop_name": "Yonge St. @ Sheppard Ave."
+      },
+      {
+        "stop_id": "02821",
+        "stop_name": "Yonge St. @ Poyntz Ave."
+      },
+      {
+        "stop_id": "01647",
+        "stop_name": "Yonge St. @ Florence Ave."
+      },
+      {
+        "stop_id": "02710",
+        "stop_name": "Major Mackenzie Dr. E. @ Hwy. 404"
+      },
+      {
+        "stop_id": "02767",
+        "stop_name": "Bloomington GO Bus"
+      },
+      {
+        "stop_id": "00307",
+        "stop_name": "Wellington St. E. @ Hwy. 404 Park & Ride"
+      },
+      {
+        "stop_id": "02538",
+        "stop_name": "Davis Dr. @ Hwy. 404 Park & Ride"
+      },
+      {
+        "stop_id": "02523",
+        "stop_name": "Queensville Sdrd. @ Hwy. 404 Park & Ride"
+      },
+      {
+        "stop_id": "02522",
+        "stop_name": "Woodbine Ave. @ Hwy. 404 Park & Ride"
+      },
+      {
+        "stop_id": "02894",
+        "stop_name": "Glenwoods Ave. @ The Queensway S."
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-68",
+    "route_short_name": "68",
+    "route_long_name": "Barrie / Newmarket",
+    "route_color": "003767",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02674",
+        "stop_name": "Hwy 407 Bus Terminal"
+      },
+      {
+        "stop_id": "00028",
+        "stop_name": "Rutherford GO Bus"
+      },
+      {
+        "stop_id": "02139",
+        "stop_name": "Keele St. @ Barrhill Rd."
+      },
+      {
+        "stop_id": "02158",
+        "stop_name": "Major Mackenzie Dr. W. @ Keele St."
+      },
+      {
+        "stop_id": "02157",
+        "stop_name": "Maple GO Bus"
+      },
+      {
+        "stop_id": "01877",
+        "stop_name": "Keele St. @ Drummond Dr."
+      },
+      {
+        "stop_id": "01888",
+        "stop_name": "Keele St. @ Teston Rd."
+      },
+      {
+        "stop_id": "02175",
+        "stop_name": "Keele St. @ Peak Point Blvd."
+      },
+      {
+        "stop_id": "02172",
+        "stop_name": "Keele St. @ Kirby Rd."
+      },
+      {
+        "stop_id": "00030",
+        "stop_name": "Keele St. @ Burton Grove (King City GO)"
+      },
+      {
+        "stop_id": "00081",
+        "stop_name": "Aurora GO Bus"
+      },
+      {
+        "stop_id": "02521",
+        "stop_name": "Wellington St. E. @ Mary St."
+      },
+      {
+        "stop_id": "02726",
+        "stop_name": "Bayview Ave. @ River Ridge Blvd."
+      },
+      {
+        "stop_id": "02694",
+        "stop_name": "Bayview Ave. @ St. John's Sideroad"
+      },
+      {
+        "stop_id": "02692",
+        "stop_name": "Bayview Ave. @ Mulock Dr."
+      },
+      {
+        "stop_id": "02690",
+        "stop_name": "Prospect St. @ Pearson St."
+      },
+      {
+        "stop_id": "02742",
+        "stop_name": "Prospect St. @ Davis Dr."
+      },
+      {
+        "stop_id": "02634",
+        "stop_name": "Davis Dr. @ Superior St. (Newmarket GO)"
+      },
+      {
+        "stop_id": "00276",
+        "stop_name": "East Gwillimbury GO Bus"
+      },
+      {
+        "stop_id": "02683",
+        "stop_name": "Green Lane E. @ Yonge St."
+      },
+      {
+        "stop_id": "01825",
+        "stop_name": "Yonge St. @ Old Yonge St."
+      },
+      {
+        "stop_id": "00083",
+        "stop_name": "Yonge St. @ Mount Albert Rd."
+      },
+      {
+        "stop_id": "02068",
+        "stop_name": "Yonge St. @ North St."
+      },
+      {
+        "stop_id": "02118",
+        "stop_name": "Yonge St. @ Mortonvale Dr."
+      },
+      {
+        "stop_id": "01804",
+        "stop_name": "Bradford St. @ Olive St."
+      },
+      {
+        "stop_id": "01970",
+        "stop_name": "Toll Rd. @ Bradford St."
+      },
+      {
+        "stop_id": "01972",
+        "stop_name": "Toll Rd. @ Centennial Ave."
+      },
+      {
+        "stop_id": "01974",
+        "stop_name": "Toll Rd. @ Oriole Dr."
+      },
+      {
+        "stop_id": "02160",
+        "stop_name": "Bradford GO Bus"
+      },
+      {
+        "stop_id": "01514",
+        "stop_name": "Holland St. E. @ Colborne St."
+      },
+      {
+        "stop_id": "02537",
+        "stop_name": "Barrie St. @ Doctors Lane"
+      },
+      {
+        "stop_id": "01506",
+        "stop_name": "Barrie St. @ Britannia Ave."
+      },
+      {
+        "stop_id": "01504",
+        "stop_name": "Barrie St. @ 8th Line"
+      },
+      {
+        "stop_id": "00977",
+        "stop_name": "Yonge St. @ Shore Acres Dr."
+      },
+      {
+        "stop_id": "00087",
+        "stop_name": "Yonge St. @ Killarney Beach Rd."
+      },
+      {
+        "stop_id": "01537",
+        "stop_name": "Yonge St. @ Meadowland St."
+      },
+      {
+        "stop_id": "01522",
+        "stop_name": "Yonge St. @ Innisfil Beach Rd."
+      },
+      {
+        "stop_id": "00090",
+        "stop_name": "Yonge St. @ Victoria St."
+      },
+      {
+        "stop_id": "01538",
+        "stop_name": "Yonge St. @ Glenn Ave."
+      },
+      {
+        "stop_id": "01534",
+        "stop_name": "Yonge St. @ Lynn St."
+      },
+      {
+        "stop_id": "00092",
+        "stop_name": "Yonge St. @ Mapleview Dr. E."
+      },
+      {
+        "stop_id": "00345",
+        "stop_name": "Barrie South GO Bus"
+      },
+      {
+        "stop_id": "01525",
+        "stop_name": "Yonge St. @ Country Ln."
+      },
+      {
+        "stop_id": "01527",
+        "stop_name": "Yonge St. @ Esther Dr."
+      },
+      {
+        "stop_id": "01521",
+        "stop_name": "Yonge St. @ Ashford Dr."
+      },
+      {
+        "stop_id": "01524",
+        "stop_name": "Yonge St. @ Big Bay Point Rd."
+      },
+      {
+        "stop_id": "01532",
+        "stop_name": "Yonge St. @ Little Ave."
+      },
+      {
+        "stop_id": "02688",
+        "stop_name": "Burton Ave. @ Granville St."
+      },
+      {
+        "stop_id": "08049",
+        "stop_name": "Allandale Waterfront GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-70",
+    "route_short_name": "70",
+    "route_long_name": "Uxbridge / Mount Joy",
+    "route_color": "794500",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00302",
+        "stop_name": "Railway St. @ Albert St."
+      },
+      {
+        "stop_id": "00714",
+        "stop_name": "Toronto St. @ Brock St."
+      },
+      {
+        "stop_id": "00697",
+        "stop_name": "Toronto St. S. @ Peel St."
+      },
+      {
+        "stop_id": "00696",
+        "stop_name": "Toronto St. S. @ Mill St."
+      },
+      {
+        "stop_id": "00694",
+        "stop_name": "Toronto St. S. @ Campbell Dr."
+      },
+      {
+        "stop_id": "00695",
+        "stop_name": "Toronto St. @ Elgin Park Dr."
+      },
+      {
+        "stop_id": "01659",
+        "stop_name": "Toronto St. S. @ Banff Rd."
+      },
+      {
+        "stop_id": "00699",
+        "stop_name": "Toronto St. @ Welwood Dr."
+      },
+      {
+        "stop_id": "00115",
+        "stop_name": "Hwy. 47 @ Front St."
+      },
+      {
+        "stop_id": "00553",
+        "stop_name": "Durham Hwy. 47 @ Goodwood Rd."
+      },
+      {
+        "stop_id": "02758",
+        "stop_name": "Hwy. 47 @ Paisley Ln."
+      },
+      {
+        "stop_id": "02171",
+        "stop_name": "Tenth Line @ Sleepy Hollow Ln."
+      },
+      {
+        "stop_id": "02830",
+        "stop_name": "Old Elm GO Bus"
+      },
+      {
+        "stop_id": "00974",
+        "stop_name": "Tenth Line @ Forsyth Farm Dr."
+      },
+      {
+        "stop_id": "00964",
+        "stop_name": "Tenth Line @ Hemlock Dr."
+      },
+      {
+        "stop_id": "01802",
+        "stop_name": "Tenth Line @ Aintree Dr."
+      },
+      {
+        "stop_id": "02806",
+        "stop_name": "Tenth Ln. @ Main St."
+      },
+      {
+        "stop_id": "02126",
+        "stop_name": "Main St. @ Stouffer St."
+      },
+      {
+        "stop_id": "01924",
+        "stop_name": "Main St. @ Church St. N."
+      },
+      {
+        "stop_id": "00117",
+        "stop_name": "Main St. @ Edward St. (Stouffville GO)"
+      },
+      {
+        "stop_id": "02194",
+        "stop_name": "Main St. @ Westlawn Cres."
+      },
+      {
+        "stop_id": "02192",
+        "stop_name": "Main St. @ Sandale Rd."
+      },
+      {
+        "stop_id": "02645",
+        "stop_name": "Main St. @ Baker Hill Blvd."
+      },
+      {
+        "stop_id": "02190",
+        "stop_name": "Hwy. 48 @ Hoover Park Dr."
+      },
+      {
+        "stop_id": "02834",
+        "stop_name": "Hwy. 48 @ 19th Ave."
+      },
+      {
+        "stop_id": "00959",
+        "stop_name": "10953 Hwy. 48 @ Elgin Mills Rd. E."
+      },
+      {
+        "stop_id": "02574",
+        "stop_name": "Markham Rd. @ Castlemore Ave."
+      },
+      {
+        "stop_id": "00121",
+        "stop_name": "Mount Joy GO Bus"
+      },
+      {
+        "stop_id": "02544",
+        "stop_name": "Markham Rd. @ Edward Jeffreys Ave."
+      },
+      {
+        "stop_id": "02113",
+        "stop_name": "Hwy. 48 @ 16th Ave."
+      },
+      {
+        "stop_id": "00122",
+        "stop_name": "Main St. N. @ Station St. (Markham GO)"
+      },
+      {
+        "stop_id": "02110",
+        "stop_name": "Bullock Dr. @ Laidlaw Blvd."
+      },
+      {
+        "stop_id": "02108",
+        "stop_name": "Bullock Dr. @ McCowan Rd."
+      },
+      {
+        "stop_id": "00124",
+        "stop_name": "Bullock Dr. @ McCowan Rd. (Centennial GO)"
+      },
+      {
+        "stop_id": "00126",
+        "stop_name": "Bullock Dr. @ Austin Dr."
+      },
+      {
+        "stop_id": "01807",
+        "stop_name": "Bullock Dr. @ Hwy. 7"
+      },
+      {
+        "stop_id": "01861",
+        "stop_name": "Hwy. 7 @ Swansea Rd."
+      },
+      {
+        "stop_id": "02144",
+        "stop_name": "YMCA Blvd. @ Kennedy Rd."
+      },
+      {
+        "stop_id": "00128",
+        "stop_name": "Unionville GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-71",
+    "route_short_name": "71",
+    "route_long_name": "Stouffville",
+    "route_color": "794500",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00302",
+        "stop_name": "Railway St. @ Albert St."
+      },
+      {
+        "stop_id": "00714",
+        "stop_name": "Toronto St. @ Brock St."
+      },
+      {
+        "stop_id": "00697",
+        "stop_name": "Toronto St. S. @ Peel St."
+      },
+      {
+        "stop_id": "00696",
+        "stop_name": "Toronto St. S. @ Mill St."
+      },
+      {
+        "stop_id": "00694",
+        "stop_name": "Toronto St. S. @ Campbell Dr."
+      },
+      {
+        "stop_id": "00695",
+        "stop_name": "Toronto St. @ Elgin Park Dr."
+      },
+      {
+        "stop_id": "01659",
+        "stop_name": "Toronto St. S. @ Banff Rd."
+      },
+      {
+        "stop_id": "00699",
+        "stop_name": "Toronto St. @ Welwood Dr."
+      },
+      {
+        "stop_id": "00115",
+        "stop_name": "Hwy. 47 @ Front St."
+      },
+      {
+        "stop_id": "00553",
+        "stop_name": "Durham Hwy. 47 @ Goodwood Rd."
+      },
+      {
+        "stop_id": "02758",
+        "stop_name": "Hwy. 47 @ Paisley Ln."
+      },
+      {
+        "stop_id": "02171",
+        "stop_name": "Tenth Line @ Sleepy Hollow Ln."
+      },
+      {
+        "stop_id": "02830",
+        "stop_name": "Old Elm GO Bus"
+      },
+      {
+        "stop_id": "00974",
+        "stop_name": "Tenth Line @ Forsyth Farm Dr."
+      },
+      {
+        "stop_id": "00964",
+        "stop_name": "Tenth Line @ Hemlock Dr."
+      },
+      {
+        "stop_id": "01802",
+        "stop_name": "Tenth Line @ Aintree Dr."
+      },
+      {
+        "stop_id": "02806",
+        "stop_name": "Tenth Ln. @ Main St."
+      },
+      {
+        "stop_id": "02126",
+        "stop_name": "Main St. @ Stouffer St."
+      },
+      {
+        "stop_id": "01924",
+        "stop_name": "Main St. @ Church St. N."
+      },
+      {
+        "stop_id": "00117",
+        "stop_name": "Main St. @ Edward St. (Stouffville GO)"
+      },
+      {
+        "stop_id": "02194",
+        "stop_name": "Main St. @ Westlawn Cres."
+      },
+      {
+        "stop_id": "02192",
+        "stop_name": "Main St. @ Sandale Rd."
+      },
+      {
+        "stop_id": "02645",
+        "stop_name": "Main St. @ Baker Hill Blvd."
+      },
+      {
+        "stop_id": "02190",
+        "stop_name": "Hwy. 48 @ Hoover Park Dr."
+      },
+      {
+        "stop_id": "02834",
+        "stop_name": "Hwy. 48 @ 19th Ave."
+      },
+      {
+        "stop_id": "00959",
+        "stop_name": "10953 Hwy. 48 @ Elgin Mills Rd. E."
+      },
+      {
+        "stop_id": "02574",
+        "stop_name": "Markham Rd. @ Castlemore Ave."
+      },
+      {
+        "stop_id": "00121",
+        "stop_name": "Mount Joy GO Bus"
+      },
+      {
+        "stop_id": "02544",
+        "stop_name": "Markham Rd. @ Edward Jeffreys Ave."
+      },
+      {
+        "stop_id": "02113",
+        "stop_name": "Hwy. 48 @ 16th Ave."
+      },
+      {
+        "stop_id": "00122",
+        "stop_name": "Main St. N. @ Station St. (Markham GO)"
+      },
+      {
+        "stop_id": "02110",
+        "stop_name": "Bullock Dr. @ Laidlaw Blvd."
+      },
+      {
+        "stop_id": "02108",
+        "stop_name": "Bullock Dr. @ McCowan Rd."
+      },
+      {
+        "stop_id": "00124",
+        "stop_name": "Bullock Dr. @ McCowan Rd. (Centennial GO)"
+      },
+      {
+        "stop_id": "00126",
+        "stop_name": "Bullock Dr. @ Austin Dr."
+      },
+      {
+        "stop_id": "01807",
+        "stop_name": "Bullock Dr. @ Hwy. 7"
+      },
+      {
+        "stop_id": "01861",
+        "stop_name": "Hwy. 7 @ Swansea Rd."
+      },
+      {
+        "stop_id": "02144",
+        "stop_name": "YMCA Blvd. @ Kennedy Rd."
+      },
+      {
+        "stop_id": "00128",
+        "stop_name": "Unionville GO Bus"
+      },
+      {
+        "stop_id": "02141",
+        "stop_name": "YMCA Blvd. @ Kennedy Rd."
+      },
+      {
+        "stop_id": "02300",
+        "stop_name": "Union Station Bus Terminal"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-88",
+    "route_short_name": "88",
+    "route_long_name": "Peterborough / Oshawa",
+    "route_color": "ff0d00",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00159",
+        "stop_name": "Durham College Oshawa GO"
+      },
+      {
+        "stop_id": "02715",
+        "stop_name": "First Ave. @ Front St. Park & Ride"
+      },
+      {
+        "stop_id": "02716",
+        "stop_name": "Courtice Rd. @ Baseline Rd. Park & Ride"
+      },
+      {
+        "stop_id": "00155",
+        "stop_name": "Bowmanville Ave. @ Baseline Rd."
+      },
+      {
+        "stop_id": "00947",
+        "stop_name": "Bowmanville Ave. @ Waverley Rd."
+      },
+      {
+        "stop_id": "00946",
+        "stop_name": "Bowmanville Ave. @ Aspen Springs Dr."
+      },
+      {
+        "stop_id": "00462",
+        "stop_name": "Clarington Blvd. @ Durham Hwy. 2"
+      },
+      {
+        "stop_id": "00306",
+        "stop_name": "Clarington Blvd. @ Durham Hwy. 2 (Bowmanville) Park & Ride"
+      },
+      {
+        "stop_id": "02863",
+        "stop_name": "Durham Hwy. 2 @ Bowmanville Ave."
+      },
+      {
+        "stop_id": "00540",
+        "stop_name": "King St. W. @ Roenigk Dr."
+      },
+      {
+        "stop_id": "02532",
+        "stop_name": "King St. W. @ Scugog St."
+      },
+      {
+        "stop_id": "00519",
+        "stop_name": "King St. E. @ Division St."
+      },
+      {
+        "stop_id": "00537",
+        "stop_name": "King St. E. @ Ontario St."
+      },
+      {
+        "stop_id": "00158",
+        "stop_name": "King St. E. @ Liberty St."
+      },
+      {
+        "stop_id": "00734",
+        "stop_name": "King St. E. @ Simpson Ave."
+      },
+      {
+        "stop_id": "00535",
+        "stop_name": "King St. E. @ Mearns Ave."
+      },
+      {
+        "stop_id": "00529",
+        "stop_name": "Durham Hwy. 2 @ Lambs Rd."
+      },
+      {
+        "stop_id": "00510",
+        "stop_name": "Durham Hwy. 2 @ Bennett Rd."
+      },
+      {
+        "stop_id": "00539",
+        "stop_name": "Durham Hwy. 2 @ Rickard Rd."
+      },
+      {
+        "stop_id": "00718",
+        "stop_name": "Durham Hwy. 2 @ Durham Regional Rd. 42"
+      },
+      {
+        "stop_id": "00525",
+        "stop_name": "Durham Hwy. 2 @ Kurve Inn Rd."
+      },
+      {
+        "stop_id": "02162",
+        "stop_name": "Hwy. 2 @ Hwy. 35/115 Park & Ride"
+      },
+      {
+        "stop_id": "02505",
+        "stop_name": "Hwy. 35 @ Hwy. 115 Park & Ride"
+      },
+      {
+        "stop_id": "02504",
+        "stop_name": "Peterborough Rd. 10 @ Hwy. 115 Park & Ride"
+      },
+      {
+        "stop_id": "02503",
+        "stop_name": "Fisher Dr. Park & Ride"
+      },
+      {
+        "stop_id": "02502",
+        "stop_name": "Peterborough Bus Terminal"
+      },
+      {
+        "stop_id": "02501",
+        "stop_name": "Trent University"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-90",
+    "route_short_name": "90",
+    "route_long_name": "Lakeshore East",
+    "route_color": "ff0d00",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "02300",
+        "stop_name": "Union Station Bus Terminal"
+      },
+      {
+        "stop_id": "00147",
+        "stop_name": "Pickering GO Bus"
+      },
+      {
+        "stop_id": "00161",
+        "stop_name": "Ajax GO Bus"
+      },
+      {
+        "stop_id": "00031",
+        "stop_name": "Whitby GO Bus"
+      },
+      {
+        "stop_id": "02573",
+        "stop_name": "Victoria St. @ Thickson Rd. (Thickson Ridge Power Centre)"
+      },
+      {
+        "stop_id": "00159",
+        "stop_name": "Durham College Oshawa GO"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-92",
+    "route_short_name": "92",
+    "route_long_name": "Oshawa / Yorkdale",
+    "route_color": "ff0d00",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00159",
+        "stop_name": "Durham College Oshawa GO"
+      },
+      {
+        "stop_id": "02873",
+        "stop_name": "Gibb St. @ Oshawa Centre"
+      },
+      {
+        "stop_id": "02749",
+        "stop_name": "Simcoe St. S. @ Athol St. E."
+      },
+      {
+        "stop_id": "00166",
+        "stop_name": "Bond St. W. @ Centre St. N."
+      },
+      {
+        "stop_id": "00429",
+        "stop_name": "Bond St. W. @ Park Rd. N."
+      },
+      {
+        "stop_id": "00332",
+        "stop_name": "Bond St. W. @ Stevenson Rd. N."
+      },
+      {
+        "stop_id": "00368",
+        "stop_name": "Dundas St. @ Thickson Rd."
+      },
+      {
+        "stop_id": "00328",
+        "stop_name": "Dundas St. @ Anderson St."
+      },
+      {
+        "stop_id": "00326",
+        "stop_name": "Dundas St. @ Garden St."
+      },
+      {
+        "stop_id": "00174",
+        "stop_name": "Dundas St. @ Brock St."
+      },
+      {
+        "stop_id": "00325",
+        "stop_name": "Dundas St. @ White Oaks Crt."
+      },
+      {
+        "stop_id": "02675",
+        "stop_name": "Dundas St. @ Halls Rd."
+      },
+      {
+        "stop_id": "00729",
+        "stop_name": "Kingston Rd. @ Salem Rd."
+      },
+      {
+        "stop_id": "00322",
+        "stop_name": "Kingston Rd. @ Harwood Ave."
+      },
+      {
+        "stop_id": "00367",
+        "stop_name": "Kingston Rd. @ Westney Rd."
+      },
+      {
+        "stop_id": "00344",
+        "stop_name": "Kingston Rd. @ Church St."
+      },
+      {
+        "stop_id": "02628",
+        "stop_name": "Kingston Rd. @ Brock Rd."
+      },
+      {
+        "stop_id": "00314",
+        "stop_name": "Kingston Rd. @ Glenanna Rd."
+      },
+      {
+        "stop_id": "00972",
+        "stop_name": "Kingston Rd. @ Walnut Ln."
+      },
+      {
+        "stop_id": "02576",
+        "stop_name": "Kingston Rd. @ Fairport Rd."
+      },
+      {
+        "stop_id": "00633",
+        "stop_name": "Kingston Rd. @ Whites Rd."
+      },
+      {
+        "stop_id": "00622",
+        "stop_name": "Kingston Rd. @ Rougemount Dr."
+      },
+      {
+        "stop_id": "00171",
+        "stop_name": "Kingston Rd. @ Sheppard Ave. E."
+      },
+      {
+        "stop_id": "02816",
+        "stop_name": "Scarborough Centre Bus Terminal"
+      },
+      {
+        "stop_id": "00011",
+        "stop_name": "York Mills Bus Terminal"
+      },
+      {
+        "stop_id": "01657",
+        "stop_name": "Yonge St. @ William Carson Cr."
+      },
+      {
+        "stop_id": "00019",
+        "stop_name": "Yorkdale Bus Terminal"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-94",
+    "route_short_name": "94",
+    "route_long_name": "Pickering / Square One",
+    "route_color": "a21884",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00132",
+        "stop_name": "Square One"
+      },
+      {
+        "stop_id": "02659",
+        "stop_name": "Dixie Transitway Station"
+      },
+      {
+        "stop_id": "02661",
+        "stop_name": "Renforth Transitway Station"
+      },
+      {
+        "stop_id": "02208",
+        "stop_name": "Renforth Dr. @ Convair Dr."
+      },
+      {
+        "stop_id": "PA",
+        "stop_name": "Pearson Airport Terminal 1"
+      },
+      {
+        "stop_id": "00022",
+        "stop_name": "Keele St. @ Hwy. 401"
+      },
+      {
+        "stop_id": "00019",
+        "stop_name": "Yorkdale Bus Terminal"
+      },
+      {
+        "stop_id": "02821",
+        "stop_name": "Yonge St. @ Poyntz Ave."
+      },
+      {
+        "stop_id": "01647",
+        "stop_name": "Yonge St. @ Florence Ave."
+      },
+      {
+        "stop_id": "02816",
+        "stop_name": "Scarborough Centre Bus Terminal"
+      },
+      {
+        "stop_id": "00634",
+        "stop_name": "Kingston Rd. @ Whites Rd."
+      },
+      {
+        "stop_id": "00312",
+        "stop_name": "Kingston Rd. @ Fairport Rd."
+      },
+      {
+        "stop_id": "00971",
+        "stop_name": "Kingston Rd. @ Walnut Ln."
+      },
+      {
+        "stop_id": "00726",
+        "stop_name": "Liverpool Rd. @ Pickering Pkwy."
+      },
+      {
+        "stop_id": "00147",
+        "stop_name": "Pickering GO Bus"
+      }
+    ]
+  },
+  {
+    "route_id": "09261126-96",
+    "route_short_name": "96",
+    "route_long_name": "Oshawa / Finch Express",
+    "route_color": "ff0d00",
+    "route_text_color": "FFFFFF",
+    "stops": [
+      {
+        "stop_id": "00013",
+        "stop_name": "Finch Bus Terminal"
+      },
+      {
+        "stop_id": "02709",
+        "stop_name": "Yonge St. @ Finch Ave."
+      },
+      {
+        "stop_id": "01651",
+        "stop_name": "Yonge St. @ Kempford Blvd."
+      },
+      {
+        "stop_id": "01644",
+        "stop_name": "Yonge St. @ Churchill Ave."
+      },
+      {
+        "stop_id": "01654",
+        "stop_name": "Yonge St. @ Ellerslie Ave."
+      },
+      {
+        "stop_id": "00077",
+        "stop_name": "Yonge St. @ Park Home Ave."
+      },
+      {
+        "stop_id": "00300",
+        "stop_name": "Yonge St. @ North York Blvd."
+      },
+      {
+        "stop_id": "00299",
+        "stop_name": "Yonge St. @ Elmhurst Ave."
+      },
+      {
+        "stop_id": "00008",
+        "stop_name": "Yonge St. @ Sheppard Ave."
+      },
+      {
+        "stop_id": "02821",
+        "stop_name": "Yonge St. @ Poyntz Ave."
+      },
+      {
+        "stop_id": "01647",
+        "stop_name": "Yonge St. @ Florence Ave."
+      },
+      {
+        "stop_id": "02816",
+        "stop_name": "Scarborough Centre Bus Terminal"
+      },
+      {
+        "stop_id": "00161",
+        "stop_name": "Ajax GO Bus"
+      },
+      {
+        "stop_id": "00031",
+        "stop_name": "Whitby GO Bus"
+      },
+      {
+        "stop_id": "02573",
+        "stop_name": "Victoria St. @ Thickson Rd. (Thickson Ridge Power Centre)"
+      },
+      {
+        "stop_id": "00159",
+        "stop_name": "Durham College Oshawa GO"
+      }
+    ]
+  }
+]
